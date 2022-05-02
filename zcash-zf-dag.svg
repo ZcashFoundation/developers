@@ -15,12 +15,12 @@
 <text text-anchor="middle" x="392" y="-2758.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Tech Debt</text>
 </g>
 <g id="clust2" class="cluster">
-<title>cluster_4</title>
+<title>cluster_3</title>
 <polygon fill="none" stroke="#0000ff" points="0,-2782 0,-3664 516,-3664 516,-2782 0,-2782"/>
 <text text-anchor="middle" x="258" y="-3648.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Breaking Changes before the Stable Release</text>
 </g>
 <g id="clust3" class="cluster">
-<title>cluster_5</title>
+<title>cluster_4</title>
 <polygon fill="none" stroke="#0000ff" points="804,-5115 804,-5264 1092,-5264 1092,-5115 804,-5115"/>
 <text text-anchor="middle" x="948" y="-5248.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra Stable Release Candidate</text>
 </g>
@@ -30,7 +30,7 @@
 <text text-anchor="middle" x="258" y="-5054.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Zebra as a Full&#45;Node Wallet</text>
 </g>
 <g id="clust5" class="cluster">
-<title>cluster_6</title>
+<title>cluster_5</title>
 <polygon fill="none" stroke="#0000ff" points="0,-5457 0,-5778 1360,-5778 1360,-5457 0,-5457"/>
 <text text-anchor="middle" x="680" y="-5762.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra as a lightwalletd backend</text>
 </g>
