@@ -10,34 +10,34 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 6919)">
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-6919 1404,-6919 1404,4 -4,4"/>
 <g id="clust1" class="cluster">
-<title>cluster_6</title>
+<title>cluster_7</title>
 <polygon fill="none" stroke="#0000ff" points="0,-5868 0,-6147 1092,-6147 1092,-5868 0,-5868"/>
 <text text-anchor="middle" x="546" y="-6131.8" font-family="Times,serif" font-size="14.00" fill="#000000">NU5 Tracking Epic</text>
 </g>
 <g id="clust2" class="cluster">
-<title>cluster_4</title>
+<title>cluster_3</title>
 <polygon fill="none" stroke="#0000ff" points="0,-2782 0,-3664 536,-3664 536,-2782 0,-2782"/>
 <text text-anchor="middle" x="268" y="-3648.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Breaking Changes before the Stable Release</text>
 </g>
 <g id="clust3" class="cluster">
-<title>cluster_3</title>
-<polygon fill="none" stroke="#0000ff" points="1112,-5905 1112,-6054 1400,-6054 1400,-5905 1112,-5905"/>
-<text text-anchor="middle" x="1256" y="-6038.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra Stable Release Candidate</text>
-</g>
-<g id="clust4" class="cluster">
 <title>cluster_2</title>
 <polygon fill="none" stroke="#0000ff" points="0,-4417 0,-5815 536,-5815 536,-4417 0,-4417"/>
 <text text-anchor="middle" x="268" y="-5799.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Zebra as a Full&#45;Node Wallet</text>
 </g>
-<g id="clust5" class="cluster">
+<g id="clust4" class="cluster">
 <title>cluster_1</title>
 <polygon fill="none" stroke="#0000ff" points="0,-3672 0,-4409 248,-4409 248,-3672 0,-3672"/>
 <text text-anchor="middle" x="124" y="-4393.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Documentation</text>
 </g>
-<g id="clust6" class="cluster">
+<g id="clust5" class="cluster">
 <title>cluster_5</title>
 <polygon fill="none" stroke="#0000ff" points="268,-6155 268,-6618 556,-6618 556,-6155 268,-6155"/>
 <text text-anchor="middle" x="412" y="-6602.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra as a lightwalletd backend</text>
+</g>
+<g id="clust6" class="cluster">
+<title>cluster_4</title>
+<polygon fill="none" stroke="#0000ff" points="1112,-5905 1112,-6054 1400,-6054 1400,-5905 1112,-5905"/>
+<text text-anchor="middle" x="1256" y="-6038.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra Stable Release Candidate</text>
 </g>
 <g id="clust7" class="cluster">
 <title>cluster_0</title>
@@ -113,9 +113,9 @@
 <polygon fill="#000000" stroke="#000000" points="841.3998,-6015.9087 851.74,-6013.6 842.2169,-6008.9566 841.3998,-6015.9087"/>
 </g>
 <!-- ZcashFoundation/zebra#3050 -->
-<g id="node18" class="node open">
+<g id="node52" class="node open">
 <title>ZcashFoundation/zebra#3050</title>
-<g id="a_node18"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/3050" xlink:title="ZcashFoundation/zebra#3050&#10;Tag Zebra v1.0.0&#45;rc1&#10;stable release candidate" target="_blank">
+<g id="a_node52"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/3050" xlink:title="ZcashFoundation/zebra#3050&#10;Tag Zebra v1.0.0&#45;rc1&#10;stable release candidate" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" points="1372,-6022.5 1140,-6022.5 1140,-5969.5 1372,-5969.5 1372,-6022.5"/>
 <text text-anchor="middle" x="1256" y="-6007.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#3050</text>
 <text text-anchor="middle" x="1256" y="-5992.3" font-family="Times,serif" font-size="14.00" fill="#000000">Tag Zebra v1.0.0&#45;rc1</text>
@@ -351,20 +351,10 @@
 </a>
 </g>
 </g>
-<!-- ZcashFoundation/zebra#2995 -->
-<g id="node19" class="node open">
-<title>ZcashFoundation/zebra#2995</title>
-<g id="a_node19"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2995" xlink:title="ZcashFoundation/zebra#2995&#10;Speed up Zebra&#39;s CI" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="1372,-5951 1140,-5951 1140,-5913 1372,-5913 1372,-5951"/>
-<text text-anchor="middle" x="1256" y="-5935.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2995</text>
-<text text-anchor="middle" x="1256" y="-5920.8" font-family="Times,serif" font-size="14.00" fill="#000000">Speed up Zebra&#39;s CI</text>
-</a>
-</g>
-</g>
 <!-- ZcashFoundation/zebra#271 -->
-<g id="node20" class="node open">
+<g id="node18" class="node open">
 <title>ZcashFoundation/zebra#271</title>
-<g id="a_node20"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/271" xlink:title="ZcashFoundation/zebra#271&#10;Sapling Key Agreement and&#10;KDF" target="_blank">
+<g id="a_node18"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/271" xlink:title="ZcashFoundation/zebra#271&#10;Sapling Key Agreement and&#10;KDF" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="235.5,-5783.5 12.5,-5783.5 12.5,-5730.5 235.5,-5730.5 235.5,-5783.5"/>
 <text text-anchor="middle" x="124" y="-5768.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#271</text>
 <text text-anchor="middle" x="124" y="-5753.3" font-family="Times,serif" font-size="14.00" fill="#000000">Sapling Key Agreement and</text>
@@ -373,9 +363,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#269 -->
-<g id="node21" class="node open">
+<g id="node19" class="node open">
 <title>ZcashFoundation/zebra#269</title>
-<g id="a_node21"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/269" xlink:title="ZcashFoundation/zebra#269&#10;Sapling note encryption&#10;implementation." target="_blank">
+<g id="a_node19"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/269" xlink:title="ZcashFoundation/zebra#269&#10;Sapling note encryption&#10;implementation." target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" points="523.5,-5712.5 300.5,-5712.5 300.5,-5659.5 523.5,-5659.5 523.5,-5712.5"/>
 <text text-anchor="middle" x="412" y="-5697.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#269</text>
 <text text-anchor="middle" x="412" y="-5682.3" font-family="Times,serif" font-size="14.00" fill="#000000">Sapling note encryption</text>
@@ -390,9 +380,9 @@
 <polygon fill="#000000" stroke="#000000" points="293.4251,-5718.3867 302.3,-5712.6 291.7535,-5711.5892 293.4251,-5718.3867"/>
 </g>
 <!-- ZcashFoundation/zebra#3002 -->
-<g id="node22" class="node open">
+<g id="node20" class="node open">
 <title>ZcashFoundation/zebra#3002</title>
-<g id="a_node22"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/3002" xlink:title="ZcashFoundation/zebra#3002&#10;Sapling note decryption&#10;implementation." target="_blank">
+<g id="a_node20"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/3002" xlink:title="ZcashFoundation/zebra#3002&#10;Sapling note decryption&#10;implementation." target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" points="528,-5783.5 296,-5783.5 296,-5730.5 528,-5730.5 528,-5783.5"/>
 <text text-anchor="middle" x="412" y="-5768.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#3002</text>
 <text text-anchor="middle" x="412" y="-5753.3" font-family="Times,serif" font-size="14.00" fill="#000000">Sapling note decryption</text>
@@ -407,9 +397,9 @@
 <polygon fill="#000000" stroke="#000000" points="285.54,-5760.5001 295.54,-5757 285.54,-5753.5001 285.54,-5760.5001"/>
 </g>
 <!-- ZcashFoundation/zebra#325 -->
-<g id="node23" class="node open">
+<g id="node21" class="node open">
 <title>ZcashFoundation/zebra#325</title>
-<g id="a_node23"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/325" xlink:title="ZcashFoundation/zebra#325&#10;Block Chain Scanning" target="_blank">
+<g id="a_node21"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/325" xlink:title="ZcashFoundation/zebra#325&#10;Block Chain Scanning" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="235.5,-5712 12.5,-5712 12.5,-5674 235.5,-5674 235.5,-5712"/>
 <text text-anchor="middle" x="124" y="-5696.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#325</text>
 <text text-anchor="middle" x="124" y="-5681.8" font-family="Times,serif" font-size="14.00" fill="#000000">Block Chain Scanning</text>
@@ -417,9 +407,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#267 -->
-<g id="node24" class="node open">
+<g id="node22" class="node open">
 <title>ZcashFoundation/zebra#267</title>
-<g id="a_node24"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/267" xlink:title="ZcashFoundation/zebra#267&#10;Implement ZIP&#45;32 Sapling&#10;and Orchard key&#10;derivation" target="_blank">
+<g id="a_node22"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/267" xlink:title="ZcashFoundation/zebra#267&#10;Implement ZIP&#45;32 Sapling&#10;and Orchard key&#10;derivation" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="235.5,-5656 12.5,-5656 12.5,-5588 235.5,-5588 235.5,-5656"/>
 <text text-anchor="middle" x="124" y="-5640.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#267</text>
 <text text-anchor="middle" x="124" y="-5625.8" font-family="Times,serif" font-size="14.00" fill="#000000">Implement ZIP&#45;32 Sapling</text>
@@ -429,9 +419,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2064 -->
-<g id="node25" class="node open">
+<g id="node23" class="node open">
 <title>ZcashFoundation/zebra#2064</title>
-<g id="a_node25"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2064" xlink:title="ZcashFoundation/zebra#2064&#10;Import Poseidon hash into&#10;Zebra" target="_blank">
+<g id="a_node23"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2064" xlink:title="ZcashFoundation/zebra#2064&#10;Import Poseidon hash into&#10;Zebra" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-5569.5 8,-5569.5 8,-5516.5 240,-5516.5 240,-5569.5"/>
 <text text-anchor="middle" x="124" y="-5554.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2064</text>
 <text text-anchor="middle" x="124" y="-5539.3" font-family="Times,serif" font-size="14.00" fill="#000000">Import Poseidon hash into</text>
@@ -440,9 +430,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2192 -->
-<g id="node26" class="node open">
+<g id="node24" class="node open">
 <title>ZcashFoundation/zebra#2192</title>
-<g id="a_node26"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2192" xlink:title="ZcashFoundation/zebra#2192&#10;Implement&#10;`EphemeralPrivateKey`&#39;s&#10;for Orchard, Sapling,&#10;Sprout" target="_blank">
+<g id="a_node24"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2192" xlink:title="ZcashFoundation/zebra#2192&#10;Implement&#10;`EphemeralPrivateKey`&#39;s&#10;for Orchard, Sapling,&#10;Sprout" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-5498.5 8,-5498.5 8,-5415.5 240,-5415.5 240,-5498.5"/>
 <text text-anchor="middle" x="124" y="-5483.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2192</text>
 <text text-anchor="middle" x="124" y="-5468.3" font-family="Times,serif" font-size="14.00" fill="#000000">Implement</text>
@@ -453,9 +443,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#181 -->
-<g id="node27" class="node open">
+<g id="node25" class="node open">
 <title>ZcashFoundation/zebra#181</title>
-<g id="a_node27"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/181" xlink:title="ZcashFoundation/zebra#181&#10;Sprout note&#10;encryption/decryption&#10;implementation." target="_blank">
+<g id="a_node25"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/181" xlink:title="ZcashFoundation/zebra#181&#10;Sprout note&#10;encryption/decryption&#10;implementation." target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="235.5,-5397 12.5,-5397 12.5,-5329 235.5,-5329 235.5,-5397"/>
 <text text-anchor="middle" x="124" y="-5381.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#181</text>
 <text text-anchor="middle" x="124" y="-5366.8" font-family="Times,serif" font-size="14.00" fill="#000000">Sprout note</text>
@@ -465,9 +455,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#785 -->
-<g id="node28" class="node open">
+<g id="node26" class="node open">
 <title>ZcashFoundation/zebra#785</title>
-<g id="a_node28"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/785" xlink:title="ZcashFoundation/zebra#785&#10;Implement ZIP 212: Allow&#10;Recipient to Derive&#10;Sapling Ephemeral Secret&#10;from Note Plaintext" target="_blank">
+<g id="a_node26"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/785" xlink:title="ZcashFoundation/zebra#785&#10;Implement ZIP 212: Allow&#10;Recipient to Derive&#10;Sapling Ephemeral Secret&#10;from Note Plaintext" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="235.5,-5310.5 12.5,-5310.5 12.5,-5227.5 235.5,-5227.5 235.5,-5310.5"/>
 <text text-anchor="middle" x="124" y="-5295.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#785</text>
 <text text-anchor="middle" x="124" y="-5280.3" font-family="Times,serif" font-size="14.00" fill="#000000">Implement ZIP 212: Allow</text>
@@ -478,9 +468,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#321 -->
-<g id="node29" class="node open">
+<g id="node27" class="node open">
 <title>ZcashFoundation/zebra#321</title>
-<g id="a_node29"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/321" xlink:title="ZcashFoundation/zebra#321&#10;Create Output Proof" target="_blank">
+<g id="a_node27"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/321" xlink:title="ZcashFoundation/zebra#321&#10;Create Output Proof" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="235.5,-5209 12.5,-5209 12.5,-5171 235.5,-5171 235.5,-5209"/>
 <text text-anchor="middle" x="124" y="-5193.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#321</text>
 <text text-anchor="middle" x="124" y="-5178.8" font-family="Times,serif" font-size="14.00" fill="#000000">Create Output Proof</text>
@@ -488,9 +478,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#272 -->
-<g id="node30" class="node open">
+<g id="node28" class="node open">
 <title>ZcashFoundation/zebra#272</title>
-<g id="a_node30"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/272" xlink:title="ZcashFoundation/zebra#272&#10;Sprout Key Agreement and&#10;KDF" target="_blank">
+<g id="a_node28"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/272" xlink:title="ZcashFoundation/zebra#272&#10;Sprout Key Agreement and&#10;KDF" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="235.5,-5152.5 12.5,-5152.5 12.5,-5099.5 235.5,-5099.5 235.5,-5152.5"/>
 <text text-anchor="middle" x="124" y="-5137.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#272</text>
 <text text-anchor="middle" x="124" y="-5122.3" font-family="Times,serif" font-size="14.00" fill="#000000">Sprout Key Agreement and</text>
@@ -499,9 +489,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2496 -->
-<g id="node31" class="node open">
+<g id="node29" class="node open">
 <title>ZcashFoundation/zebra#2496</title>
-<g id="a_node31"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2496" xlink:title="ZcashFoundation/zebra#2496&#10;Handle a ivk == ⊥&#10;(KA^Orchard private key)&#10;when generating an&#10;Orchard Spending Key" target="_blank">
+<g id="a_node29"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2496" xlink:title="ZcashFoundation/zebra#2496&#10;Handle a ivk == ⊥&#10;(KA^Orchard private key)&#10;when generating an&#10;Orchard Spending Key" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-5081.5 8,-5081.5 8,-4998.5 240,-4998.5 240,-5081.5"/>
 <text text-anchor="middle" x="124" y="-5066.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2496</text>
 <text text-anchor="middle" x="124" y="-5051.3" font-family="Times,serif" font-size="14.00" fill="#000000">Handle a ivk == ⊥</text>
@@ -512,9 +502,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#3869 -->
-<g id="node32" class="node open">
+<g id="node30" class="node open">
 <title>ZcashFoundation/zebra#3869</title>
-<g id="a_node32"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/3869" xlink:title="ZcashFoundation/zebra#3869&#10;Orchard: ensure that ivk&#10;= 0 is rejected if that&#10;negligible case occurs" target="_blank">
+<g id="a_node30"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/3869" xlink:title="ZcashFoundation/zebra#3869&#10;Orchard: ensure that ivk&#10;= 0 is rejected if that&#10;negligible case occurs" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-4980 8,-4980 8,-4912 240,-4912 240,-4980"/>
 <text text-anchor="middle" x="124" y="-4964.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#3869</text>
 <text text-anchor="middle" x="124" y="-4949.8" font-family="Times,serif" font-size="14.00" fill="#000000">Orchard: ensure that ivk</text>
@@ -524,9 +514,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#278 -->
-<g id="node33" class="node open">
+<g id="node31" class="node open">
 <title>ZcashFoundation/zebra#278</title>
-<g id="a_node33"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/278" xlink:title="ZcashFoundation/zebra#278&#10;Sapling Note Builder" target="_blank">
+<g id="a_node31"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/278" xlink:title="ZcashFoundation/zebra#278&#10;Sapling Note Builder" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="235.5,-4894 12.5,-4894 12.5,-4856 235.5,-4856 235.5,-4894"/>
 <text text-anchor="middle" x="124" y="-4878.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#278</text>
 <text text-anchor="middle" x="124" y="-4863.8" font-family="Times,serif" font-size="14.00" fill="#000000">Sapling Note Builder</text>
@@ -534,9 +524,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2447 -->
-<g id="node34" class="node open">
+<g id="node32" class="node open">
 <title>ZcashFoundation/zebra#2447</title>
-<g id="a_node34"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2447" xlink:title="ZcashFoundation/zebra#2447&#10;Define a new `Amount`&#10;`Constraint` for Note&#10;values w/ [0..2^64) as&#10;`valid_range()`" target="_blank">
+<g id="a_node32"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2447" xlink:title="ZcashFoundation/zebra#2447&#10;Define a new `Amount`&#10;`Constraint` for Note&#10;values w/ [0..2^64) as&#10;`valid_range()`" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-4837.5 8,-4837.5 8,-4754.5 240,-4754.5 240,-4837.5"/>
 <text text-anchor="middle" x="124" y="-4822.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2447</text>
 <text text-anchor="middle" x="124" y="-4807.3" font-family="Times,serif" font-size="14.00" fill="#000000">Define a new `Amount`</text>
@@ -547,9 +537,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2041 -->
-<g id="node35" class="node open">
+<g id="node33" class="node open">
 <title>ZcashFoundation/zebra#2041</title>
-<g id="a_node35"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2041" xlink:title="ZcashFoundation/zebra#2041&#10;Orchard: derive&#10;OutgoingCipherKey" target="_blank">
+<g id="a_node33"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2041" xlink:title="ZcashFoundation/zebra#2041&#10;Orchard: derive&#10;OutgoingCipherKey" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-4736.5 8,-4736.5 8,-4683.5 240,-4683.5 240,-4736.5"/>
 <text text-anchor="middle" x="124" y="-4721.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2041</text>
 <text text-anchor="middle" x="124" y="-4706.3" font-family="Times,serif" font-size="14.00" fill="#000000">Orchard: derive</text>
@@ -558,9 +548,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#320 -->
-<g id="node36" class="node open">
+<g id="node34" class="node open">
 <title>ZcashFoundation/zebra#320</title>
-<g id="a_node36"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/320" xlink:title="ZcashFoundation/zebra#320&#10;Create a Spend Proof" target="_blank">
+<g id="a_node34"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/320" xlink:title="ZcashFoundation/zebra#320&#10;Create a Spend Proof" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="235.5,-4665 12.5,-4665 12.5,-4627 235.5,-4627 235.5,-4665"/>
 <text text-anchor="middle" x="124" y="-4649.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#320</text>
 <text text-anchor="middle" x="124" y="-4634.8" font-family="Times,serif" font-size="14.00" fill="#000000">Create a Spend Proof</text>
@@ -568,9 +558,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2080 -->
-<g id="node37" class="node open">
+<g id="node35" class="node open">
 <title>ZcashFoundation/zebra#2080</title>
-<g id="a_node37"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2080" xlink:title="ZcashFoundation/zebra#2080&#10;Replace`redpallas` module&#10;with `reddsa`/`redpallas`&#10;crate" target="_blank">
+<g id="a_node35"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2080" xlink:title="ZcashFoundation/zebra#2080&#10;Replace`redpallas` module&#10;with `reddsa`/`redpallas`&#10;crate" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-4609 8,-4609 8,-4541 240,-4541 240,-4609"/>
 <text text-anchor="middle" x="124" y="-4593.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2080</text>
 <text text-anchor="middle" x="124" y="-4578.8" font-family="Times,serif" font-size="14.00" fill="#000000">Replace`redpallas` module</text>
@@ -580,9 +570,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2095 -->
-<g id="node38" class="node open">
+<g id="node36" class="node open">
 <title>ZcashFoundation/zebra#2095</title>
-<g id="a_node38"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2095" xlink:title="ZcashFoundation/zebra#2095&#10;Orchard: update&#10;note/action generation to&#10;include input note&#10;nullifier in the&#10;PRF^expand invocations" target="_blank">
+<g id="a_node36"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2095" xlink:title="ZcashFoundation/zebra#2095&#10;Orchard: update&#10;note/action generation to&#10;include input note&#10;nullifier in the&#10;PRF^expand invocations" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-4523 8,-4523 8,-4425 240,-4425 240,-4523"/>
 <text text-anchor="middle" x="124" y="-4507.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2095</text>
 <text text-anchor="middle" x="124" y="-4492.8" font-family="Times,serif" font-size="14.00" fill="#000000">Orchard: update</text>
@@ -594,9 +584,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2971 -->
-<g id="node39" class="node open">
+<g id="node37" class="node open">
 <title>ZcashFoundation/zebra#2971</title>
-<g id="a_node39"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2971" xlink:title="ZcashFoundation/zebra#2971&#10;Fix crawler.rs doctest" target="_blank">
+<g id="a_node37"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2971" xlink:title="ZcashFoundation/zebra#2971&#10;Fix crawler.rs doctest" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-4378 8,-4378 8,-4340 240,-4340 240,-4378"/>
 <text text-anchor="middle" x="124" y="-4362.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2971</text>
 <text text-anchor="middle" x="124" y="-4347.8" font-family="Times,serif" font-size="14.00" fill="#000000">Fix crawler.rs doctest</text>
@@ -604,9 +594,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#3318 -->
-<g id="node40" class="node open">
+<g id="node38" class="node open">
 <title>ZcashFoundation/zebra#3318</title>
-<g id="a_node40"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/3318" xlink:title="ZcashFoundation/zebra#3318&#10;Consider adding codespell&#10;to the CI" target="_blank">
+<g id="a_node38"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/3318" xlink:title="ZcashFoundation/zebra#3318&#10;Consider adding codespell&#10;to the CI" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-4321.5 8,-4321.5 8,-4268.5 240,-4268.5 240,-4321.5"/>
 <text text-anchor="middle" x="124" y="-4306.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#3318</text>
 <text text-anchor="middle" x="124" y="-4291.3" font-family="Times,serif" font-size="14.00" fill="#000000">Consider adding codespell</text>
@@ -615,9 +605,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#1963 -->
-<g id="node41" class="node open">
+<g id="node39" class="node open">
 <title>ZcashFoundation/zebra#1963</title>
-<g id="a_node41"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/1963" xlink:title="ZcashFoundation/zebra#1963&#10;Revise Release Process&#10;RFC Draft" target="_blank">
+<g id="a_node39"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/1963" xlink:title="ZcashFoundation/zebra#1963&#10;Revise Release Process&#10;RFC Draft" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-4250.5 8,-4250.5 8,-4197.5 240,-4197.5 240,-4250.5"/>
 <text text-anchor="middle" x="124" y="-4235.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#1963</text>
 <text text-anchor="middle" x="124" y="-4220.3" font-family="Times,serif" font-size="14.00" fill="#000000">Revise Release Process</text>
@@ -626,9 +616,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4202 -->
-<g id="node42" class="node open">
+<g id="node40" class="node open">
 <title>ZcashFoundation/zebra#4202</title>
-<g id="a_node42"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4202" xlink:title="ZcashFoundation/zebra#4202&#10;Document how to handle&#10;network upgrades" target="_blank">
+<g id="a_node40"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4202" xlink:title="ZcashFoundation/zebra#4202&#10;Document how to handle&#10;network upgrades" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-4179.5 8,-4179.5 8,-4126.5 240,-4126.5 240,-4179.5"/>
 <text text-anchor="middle" x="124" y="-4164.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#4202</text>
 <text text-anchor="middle" x="124" y="-4149.3" font-family="Times,serif" font-size="14.00" fill="#000000">Document how to handle</text>
@@ -637,9 +627,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2972 -->
-<g id="node43" class="node open">
+<g id="node41" class="node open">
 <title>ZcashFoundation/zebra#2972</title>
-<g id="a_node43"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2972" xlink:title="ZcashFoundation/zebra#2972&#10;Make it easy for users to&#10;discover how to configure&#10;Zebra" target="_blank">
+<g id="a_node41"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2972" xlink:title="ZcashFoundation/zebra#2972&#10;Make it easy for users to&#10;discover how to configure&#10;Zebra" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-4108 8,-4108 8,-4040 240,-4040 240,-4108"/>
 <text text-anchor="middle" x="124" y="-4092.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2972</text>
 <text text-anchor="middle" x="124" y="-4077.8" font-family="Times,serif" font-size="14.00" fill="#000000">Make it easy for users to</text>
@@ -649,9 +639,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2191 -->
-<g id="node44" class="node open">
+<g id="node42" class="node open">
 <title>ZcashFoundation/zebra#2191</title>
-<g id="a_node44"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2191" xlink:title="ZcashFoundation/zebra#2191&#10;Update user and dev&#10;instructions in the Zebra&#10;Book to deduplicate" target="_blank">
+<g id="a_node42"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2191" xlink:title="ZcashFoundation/zebra#2191&#10;Update user and dev&#10;instructions in the Zebra&#10;Book to deduplicate" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-4022 8,-4022 8,-3954 240,-3954 240,-4022"/>
 <text text-anchor="middle" x="124" y="-4006.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2191</text>
 <text text-anchor="middle" x="124" y="-3991.8" font-family="Times,serif" font-size="14.00" fill="#000000">Update user and dev</text>
@@ -661,9 +651,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2740 -->
-<g id="node45" class="node open">
+<g id="node43" class="node open">
 <title>ZcashFoundation/zebra#2740</title>
-<g id="a_node45"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2740" xlink:title="ZcashFoundation/zebra#2740&#10;Documentation: adapt&#10;Zebra architecture blog&#10;posts into zebrad&#10;overview for devs in the&#10;book" target="_blank">
+<g id="a_node43"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2740" xlink:title="ZcashFoundation/zebra#2740&#10;Documentation: adapt&#10;Zebra architecture blog&#10;posts into zebrad&#10;overview for devs in the&#10;book" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-3936 8,-3936 8,-3838 240,-3838 240,-3936"/>
 <text text-anchor="middle" x="124" y="-3920.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2740</text>
 <text text-anchor="middle" x="124" y="-3905.8" font-family="Times,serif" font-size="14.00" fill="#000000">Documentation: adapt</text>
@@ -675,9 +665,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2001 -->
-<g id="node46" class="node open">
+<g id="node44" class="node open">
 <title>ZcashFoundation/zebra#2001</title>
-<g id="a_node46"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2001" xlink:title="ZcashFoundation/zebra#2001&#10;Write a draft security&#10;triage RFC" target="_blank">
+<g id="a_node44"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2001" xlink:title="ZcashFoundation/zebra#2001&#10;Write a draft security&#10;triage RFC" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-3819.5 8,-3819.5 8,-3766.5 240,-3766.5 240,-3819.5"/>
 <text text-anchor="middle" x="124" y="-3804.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2001</text>
 <text text-anchor="middle" x="124" y="-3789.3" font-family="Times,serif" font-size="14.00" fill="#000000">Write a draft security</text>
@@ -686,9 +676,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#1772 -->
-<g id="node47" class="node open">
+<g id="node45" class="node open">
 <title>ZcashFoundation/zebra#1772</title>
-<g id="a_node47"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/1772" xlink:title="ZcashFoundation/zebra#1772&#10;Add comments on how to&#10;configure metric and&#10;tracing endpoints" target="_blank">
+<g id="a_node45"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/1772" xlink:title="ZcashFoundation/zebra#1772&#10;Add comments on how to&#10;configure metric and&#10;tracing endpoints" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-3748 8,-3748 8,-3680 240,-3680 240,-3748"/>
 <text text-anchor="middle" x="124" y="-3732.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#1772</text>
 <text text-anchor="middle" x="124" y="-3717.8" font-family="Times,serif" font-size="14.00" fill="#000000">Add comments on how to</text>
@@ -698,9 +688,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4168 -->
-<g id="node48" class="node open">
+<g id="node46" class="node open">
 <title>ZcashFoundation/zebra#4168</title>
-<g id="a_node48"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4168" xlink:title="ZcashFoundation/zebra#4168&#10;ci: call lightwalletd&#10;wallet queries" target="_blank">
+<g id="a_node46"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4168" xlink:title="ZcashFoundation/zebra#4168&#10;ci: call lightwalletd&#10;wallet queries" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="528,-6586.5 296,-6586.5 296,-6533.5 528,-6533.5 528,-6586.5"/>
 <text text-anchor="middle" x="412" y="-6571.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#4168</text>
 <text text-anchor="middle" x="412" y="-6556.3" font-family="Times,serif" font-size="14.00" fill="#000000">ci: call lightwalletd</text>
@@ -745,9 +735,9 @@
 <polygon fill="#000000" stroke="#000000" points="574.838,-6523.9064 583.7,-6518.1 573.1513,-6517.1127 574.838,-6523.9064"/>
 </g>
 <!-- ZcashFoundation/zebra#4278 -->
-<g id="node49" class="node open">
+<g id="node47" class="node open">
 <title>ZcashFoundation/zebra#4278</title>
-<g id="a_node49"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4278" xlink:title="ZcashFoundation/zebra#4278&#10;Add missing wallet grpc&#10;tests" target="_blank">
+<g id="a_node47"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4278" xlink:title="ZcashFoundation/zebra#4278&#10;Add missing wallet grpc&#10;tests" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="528,-6515.5 296,-6515.5 296,-6462.5 528,-6462.5 528,-6515.5"/>
 <text text-anchor="middle" x="412" y="-6500.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#4278</text>
 <text text-anchor="middle" x="412" y="-6485.3" font-family="Times,serif" font-size="14.00" fill="#000000">Add missing wallet grpc</text>
@@ -768,9 +758,9 @@
 <polygon fill="#000000" stroke="#000000" points="573.72,-6492.5001 583.72,-6489 573.72,-6485.5001 573.72,-6492.5001"/>
 </g>
 <!-- ZcashFoundation/zebra#4351 -->
-<g id="node50" class="node open">
+<g id="node48" class="node open">
 <title>ZcashFoundation/zebra#4351</title>
-<g id="a_node50"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4351" xlink:title="ZcashFoundation/zebra#4351&#10;Add GetTreeState gRPC&#10;test" target="_blank">
+<g id="a_node48"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4351" xlink:title="ZcashFoundation/zebra#4351&#10;Add GetTreeState gRPC&#10;test" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="528,-6444.5 296,-6444.5 296,-6391.5 528,-6391.5 528,-6444.5"/>
 <text text-anchor="middle" x="412" y="-6429.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#4351</text>
 <text text-anchor="middle" x="412" y="-6414.3" font-family="Times,serif" font-size="14.00" fill="#000000">Add GetTreeState gRPC</text>
@@ -779,9 +769,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4415 -->
-<g id="node51" class="node open">
+<g id="node49" class="node open">
 <title>ZcashFoundation/zebra#4415</title>
-<g id="a_node51"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4415" xlink:title="ZcashFoundation/zebra#4415&#10;Fix lightwalletd cached&#10;state disks in CI" target="_blank">
+<g id="a_node49"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4415" xlink:title="ZcashFoundation/zebra#4415&#10;Fix lightwalletd cached&#10;state disks in CI" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="528,-6373.5 296,-6373.5 296,-6320.5 528,-6320.5 528,-6373.5"/>
 <text text-anchor="middle" x="412" y="-6358.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#4415</text>
 <text text-anchor="middle" x="412" y="-6343.3" font-family="Times,serif" font-size="14.00" fill="#000000">Fix lightwalletd cached</text>
@@ -790,9 +780,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4350 -->
-<g id="node52" class="node open">
+<g id="node50" class="node open">
 <title>ZcashFoundation/zebra#4350</title>
-<g id="a_node52"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4350" xlink:title="ZcashFoundation/zebra#4350&#10;Add GetMempoolTx gRPC&#10;test" target="_blank">
+<g id="a_node50"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4350" xlink:title="ZcashFoundation/zebra#4350&#10;Add GetMempoolTx gRPC&#10;test" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="528,-6302.5 296,-6302.5 296,-6249.5 528,-6249.5 528,-6302.5"/>
 <text text-anchor="middle" x="412" y="-6287.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#4350</text>
 <text text-anchor="middle" x="412" y="-6272.3" font-family="Times,serif" font-size="14.00" fill="#000000">Add GetMempoolTx gRPC</text>
@@ -801,14 +791,24 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4060 -->
-<g id="node53" class="node open">
+<g id="node51" class="node open">
 <title>ZcashFoundation/zebra#4060</title>
-<g id="a_node53"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4060" xlink:title="ZcashFoundation/zebra#4060&#10;Report better&#10;transactions errors to&#10;lightwalletd" target="_blank">
+<g id="a_node51"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4060" xlink:title="ZcashFoundation/zebra#4060&#10;Report better&#10;transactions errors to&#10;lightwalletd" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="528,-6231 296,-6231 296,-6163 528,-6163 528,-6231"/>
 <text text-anchor="middle" x="412" y="-6215.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#4060</text>
 <text text-anchor="middle" x="412" y="-6200.8" font-family="Times,serif" font-size="14.00" fill="#000000">Report better</text>
 <text text-anchor="middle" x="412" y="-6185.8" font-family="Times,serif" font-size="14.00" fill="#000000">transactions errors to</text>
 <text text-anchor="middle" x="412" y="-6170.8" font-family="Times,serif" font-size="14.00" fill="#000000">lightwalletd</text>
+</a>
+</g>
+</g>
+<!-- ZcashFoundation/zebra#2995 -->
+<g id="node53" class="node open">
+<title>ZcashFoundation/zebra#2995</title>
+<g id="a_node53"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2995" xlink:title="ZcashFoundation/zebra#2995&#10;Speed up Zebra&#39;s CI" target="_blank">
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="1372,-5951 1140,-5951 1140,-5913 1372,-5913 1372,-5951"/>
+<text text-anchor="middle" x="1256" y="-5935.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2995</text>
+<text text-anchor="middle" x="1256" y="-5920.8" font-family="Times,serif" font-size="14.00" fill="#000000">Speed up Zebra&#39;s CI</text>
 </a>
 </g>
 </g>
