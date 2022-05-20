@@ -77,7 +77,7 @@ jobs:
           ZENHUB_TOKEN: ${{ secrets.ZENHUB_TOKEN }}
           DAG_VIEW: zf-devops
           SHOW_EPICS: true
-          ONLY_LABEL: A-devops
+          SHOW_ONLY_LABELS: A-devops,A-infrastructure
 
       - name: Copy the index page
         run: cp ./index.html ./public

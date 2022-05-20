@@ -97,8 +97,11 @@ SHOW_MILESTONES = strtobool(os.environ.get('SHOW_MILESTONES', 'false'))
 # Whether to group issues and PRs by ZenHub epics.
 SHOW_EPICS = strtobool(os.environ.get('SHOW_EPICS', 'false'))
 
-# Whether to only show issues with a specified label.
-ONLY_LABEL = os.environ.get('ONLY_LABEL', '')
+# Whether to only show issues containing at least one of the specified labels.
+# A comma-separated list.
+SHOW_ONLY_LABELS = os.environ.get('SHOW_ONLY_LABELS', '').split(',')
+if SHOW_ONLY_LABELS == ['']:
+    SHOW_ONLY_LABELS = []
 
 
 class GitHubIssue:
@@ -290,8 +293,8 @@ def main():
         attrs['is_open'] = 0 if source.state == 'closed' else 1
 
     def should_ignore(n):
-        if ONLY_LABEL:
-            return n.state == 'closed' or ONLY_LABEL not in n.labels
+        if SHOW_ONLY_LABELS:
+            return n.state == 'closed' or len(set(SHOW_ONLY_LABELS) & set(n.labels)) == 0
         return n.state == 'closed'
 
     if not INCLUDE_FINISHED:
@@ -331,7 +334,7 @@ def main():
             attrs['class'] = 'open'
             attrs['fillcolor'] = '#c2e0c6'
             # Color downstream nodes without the specified label
-            if ONLY_LABEL and ONLY_LABEL not in n.labels:
+            if SHOW_ONLY_LABELS and len(set(SHOW_ONLY_LABELS) & set(n.labels)) == 0:
                 attrs['fillcolor'] = '#a7c2aa'
         attrs['penwidth'] = 2 if n in do_next else 1
         attrs['shape'] = 'component' if n.is_pr else 'box'
