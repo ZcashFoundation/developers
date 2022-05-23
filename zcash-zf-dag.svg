@@ -15,7 +15,7 @@
 <text text-anchor="middle" x="124" y="-4378.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Documentation</text>
 </g>
 <g id="clust2" class="cluster">
-<title>cluster_4</title>
+<title>cluster_5</title>
 <polygon fill="none" stroke="#0000ff" points="0,-4402 0,-4551 516,-4551 516,-4402 0,-4402"/>
 <text text-anchor="middle" x="258" y="-4535.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra Stable Release Candidate</text>
 </g>
@@ -30,7 +30,7 @@
 <text text-anchor="middle" x="124" y="-4650.8" font-family="Times,serif" font-size="14.00" fill="#000000">NU5 Tracking Epic</text>
 </g>
 <g id="clust5" class="cluster">
-<title>cluster_5</title>
+<title>cluster_4</title>
 <polygon fill="none" stroke="#0000ff" points="0,-2838 0,-3720 516,-3720 516,-2838 0,-2838"/>
 <text text-anchor="middle" x="258" y="-3704.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Breaking Changes before the Stable Release</text>
 </g>
