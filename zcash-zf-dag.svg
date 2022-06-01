@@ -10,12 +10,12 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 6224)">
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-6224 828,-6224 828,4 -4,4"/>
 <g id="clust1" class="cluster">
-<title>cluster_5</title>
+<title>cluster_4</title>
 <polygon fill="none" stroke="#0000ff" points="20,-2979 20,-3861 556,-3861 556,-2979 20,-2979"/>
 <text text-anchor="middle" x="288" y="-3845.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Breaking Changes before the Stable Release</text>
 </g>
 <g id="clust2" class="cluster">
-<title>cluster_0</title>
+<title>cluster_1</title>
 <polygon fill="none" stroke="#0000ff" points="308,-674 308,-2971 824,-2971 824,-674 308,-674"/>
 <text text-anchor="middle" x="566" y="-2955.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Tech Debt</text>
 </g>
@@ -30,17 +30,17 @@
 <text text-anchor="middle" x="144" y="-4249.8" font-family="Times,serif" font-size="14.00" fill="#000000">NU5 Tracking Epic</text>
 </g>
 <g id="clust5" class="cluster">
-<title>cluster_1</title>
+<title>cluster_0</title>
 <polygon fill="none" stroke="#0000ff" points="20,0 20,-666 556,-666 556,0 20,0"/>
 <text text-anchor="middle" x="288" y="-650.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Documentation</text>
 </g>
 <g id="clust6" class="cluster">
-<title>cluster_6</title>
+<title>cluster_5</title>
 <polygon fill="none" stroke="#0000ff" points="20,-3869 20,-3962 556,-3962 556,-3869 20,-3869"/>
 <text text-anchor="middle" x="288" y="-3946.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra Stable Release Candidate</text>
 </g>
 <g id="clust7" class="cluster">
-<title>cluster_4</title>
+<title>cluster_6</title>
 <polygon fill="none" stroke="#0000ff" points="0,-5608 0,-6016 288,-6016 288,-5608 0,-5608"/>
 <text text-anchor="middle" x="144" y="-6000.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra as a lightwalletd backend</text>
 </g>
