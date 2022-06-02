@@ -70,6 +70,15 @@ jobs:
           DAG_VIEW: zf-frost
           SHOW_EPICS: true
 
+      - name: Render ZF DevOps DAG
+        run: python3 ./zcash-issue-dag.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ZENHUB_TOKEN: ${{ secrets.ZENHUB_TOKEN }}
+          DAG_VIEW: zf-devops
+          SHOW_EPICS: true
+          SHOW_ONLY_LABELS: A-devops,A-infrastructure
+
       - name: Copy the index page
         run: cp ./index.html ./public
 

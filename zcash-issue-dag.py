@@ -80,6 +80,7 @@ REPO_SETS = {
     'wallet-android': ANDROID_REPOS,
     'zf': ZF_REPOS,
     'zf-frost': ZF_FROST_REPOS,
+    'zf-devops': {**ZF_REPOS, **ZF_FROST_REPOS},
 }
 
 REPOS = REPO_SETS[DAG_VIEW]
@@ -96,6 +97,12 @@ SHOW_MILESTONES = strtobool(os.environ.get('SHOW_MILESTONES', 'false'))
 # Whether to group issues and PRs by ZenHub epics.
 SHOW_EPICS = strtobool(os.environ.get('SHOW_EPICS', 'false'))
 
+# Whether to only show issues containing at least one of the specified labels.
+# A comma-separated list.
+SHOW_ONLY_LABELS = os.environ.get('SHOW_ONLY_LABELS', '').split(',')
+if SHOW_ONLY_LABELS == ['']:
+    SHOW_ONLY_LABELS = []
+
 
 class GitHubIssue:
     def __init__(self, repo_id, issue_number, data):
@@ -105,6 +112,7 @@ class GitHubIssue:
 
         if data is not None:
             labels = [label['name'] for label in data['labels']['nodes']]
+            self.labels = labels
             self.title = data['title']
             self.is_pr = 'merged' in data
             self.is_committed = 'S-committed' in labels
@@ -284,12 +292,17 @@ def main():
         attrs = dg.edges[source, sink]
         attrs['is_open'] = 0 if source.state == 'closed' else 1
 
+    def should_ignore(n):
+        if SHOW_ONLY_LABELS:
+            return n.state == 'closed' or len(set(SHOW_ONLY_LABELS) & set(n.labels)) == 0
+        return n.state == 'closed'
+
     if not INCLUDE_FINISHED:
         # Identify the disconnected subgraphs.
         subgraphs = [dg.subgraph(c) for c in nx.connected_components(dg.to_undirected())]
 
         # Identify subgraphs comprised entirely of closed issues.
-        ignore = [g for g in subgraphs if all([n.state == 'closed' for n in g])]
+        ignore = [g for g in subgraphs if all([should_ignore(n) for n in g])]
 
         # Remove fully-closed subgraphs.
         if len(ignore) > 0:
@@ -299,10 +312,10 @@ def main():
     if PRUNE_FINISHED:
         # - It would be nice to keep the most recently-closed issues on the DAG, but
         #   dg.out_degree seems to be broken...
-        to_prune = [n for (n, degree) in dg.in_degree() if degree == 0 and n.state == 'closed']
+        to_prune = [n for (n, degree) in dg.in_degree() if degree == 0 and should_ignore(n)]
         while len(to_prune) > 0:
             dg.remove_nodes_from(to_prune)
-            to_prune = [n for (n, degree) in dg.in_degree() if degree == 0 and n.state == 'closed']
+            to_prune = [n for (n, degree) in dg.in_degree() if degree == 0 and should_ignore(n)]
 
     do_next = [n for (n, degree) in dg.in_degree(weight='is_open') if degree == 0 and n.state != 'closed']
 
@@ -320,6 +333,9 @@ def main():
         else:
             attrs['class'] = 'open'
             attrs['fillcolor'] = '#c2e0c6'
+            # Color downstream nodes without the specified label
+            if SHOW_ONLY_LABELS and len(set(SHOW_ONLY_LABELS) & set(n.labels)) == 0:
+                attrs['fillcolor'] = '#a7c2aa'
         attrs['penwidth'] = 2 if n in do_next else 1
         attrs['shape'] = 'component' if n.is_pr else 'box'
         attrs['style'] = 'filled'
