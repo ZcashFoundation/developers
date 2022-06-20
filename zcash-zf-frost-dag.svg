@@ -73,10 +73,10 @@
 <!-- ZcashFoundation/frost#72 -->
 <g id="node5" class="node open">
 <title>ZcashFoundation/frost#72</title>
-<g id="a_node5"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/72" xlink:title="ZcashFoundation/frost#72&#10;Add P&#45;256 support" target="_blank">
+<g id="a_node5"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/72" xlink:title="ZcashFoundation/frost#72&#10;feat: add P&#45;256 support" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="216,-315 8,-315 8,-277 216,-277 216,-315"/>
 <text text-anchor="middle" x="112" y="-299.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#72</text>
-<text text-anchor="middle" x="112" y="-284.8" font-family="Times,serif" font-size="14.00" fill="#000000">Add P&#45;256 support</text>
+<text text-anchor="middle" x="112" y="-284.8" font-family="Times,serif" font-size="14.00" fill="#000000">feat: add P&#45;256 support</text>
 </a>
 </g>
 </g>
