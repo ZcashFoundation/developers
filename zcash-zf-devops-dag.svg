@@ -15,12 +15,12 @@
 <text text-anchor="middle" x="526" y="-342.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra Stable Release Candidate</text>
 </g>
 <g id="clust2" class="cluster">
-<title>cluster_0</title>
+<title>cluster_1</title>
 <polygon fill="none" stroke="#0000ff" points="0,0 0,-93 248,-93 248,0 0,0"/>
 <text text-anchor="middle" x="124" y="-77.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Documentation</text>
 </g>
 <g id="clust3" class="cluster">
-<title>cluster_1</title>
+<title>cluster_0</title>
 <polygon fill="none" stroke="#0000ff" points="804,-85 804,-178 1052,-178 1052,-85 804,-85"/>
 <text text-anchor="middle" x="928" y="-162.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Tech Debt</text>
 </g>
