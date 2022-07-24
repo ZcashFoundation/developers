@@ -10,7 +10,7 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 4079)">
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-4079 1293,-4079 1293,4 -4,4"/>
 <g id="clust1" class="cluster">
-<title>cluster_5</title>
+<title>cluster_4</title>
 <polygon fill="none" stroke="#0000ff" points="98,-3489 98,-3668 386,-3668 386,-3489 98,-3489"/>
 <text text-anchor="middle" x="242" y="-3652.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra as a lightwalletd backend</text>
 </g>
@@ -35,7 +35,7 @@
 <text text-anchor="middle" x="435.5" y="-1554.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Zebra as a Full&#45;Node Wallet</text>
 </g>
 <g id="clust6" class="cluster">
-<title>cluster_4</title>
+<title>cluster_5</title>
 <polygon fill="none" stroke="#0000ff" points="0,-2668 0,-3050 485,-3050 485,-2668 0,-2668"/>
 <text text-anchor="middle" x="242.5" y="-3034.8" font-family="Times,serif" font-size="14.00" fill="#000000">Stop tokio tasks running for a long time and blocking other tasks</text>
 </g>
