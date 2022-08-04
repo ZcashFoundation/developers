@@ -20,12 +20,12 @@
 <text text-anchor="middle" x="144" y="-722.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra as a lightwalletd backend</text>
 </g>
 <g id="clust3" class="cluster">
-<title>cluster_4</title>
+<title>cluster_3</title>
 <polygon fill="none" stroke="#0000ff" points="576,-165 576,-258 824,-258 824,-165 576,-165"/>
 <text text-anchor="middle" x="700" y="-242.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Tech Debt</text>
 </g>
 <g id="clust4" class="cluster">
-<title>cluster_3</title>
+<title>cluster_4</title>
 <polygon fill="none" stroke="#0000ff" points="20,-530 20,-623 268,-623 268,-530 20,-530"/>
 <text text-anchor="middle" x="144" y="-607.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tracking: Documentation</text>
 </g>
