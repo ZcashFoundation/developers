@@ -10,7 +10,7 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 831)">
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-831 828,-831 828,4 -4,4"/>
 <g id="clust1" class="cluster">
-<title>cluster_2</title>
+<title>cluster_1</title>
 <polygon fill="none" stroke="#0000ff" points="0,0 0,-437 536,-437 536,0 0,0"/>
 <text text-anchor="middle" x="268" y="-421.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra Stable Release Candidate</text>
 </g>
