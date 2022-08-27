@@ -42,7 +42,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4350&#45;&gt;ZcashFoundation/zebra#3050 -->
-<g id="edge10" class="edge">
+<g id="edge6" class="edge">
 <title>ZcashFoundation/zebra#4350&#45;&gt;ZcashFoundation/zebra#3050</title>
 <path fill="none" stroke="#000000" d="M562.95,-211.1C542.84,-221.41 524.81,-235.7 514,-255.5 497.95,-284.9 498.04,-1432 514,-1461.5 531.18,-1493.2 562.82,-1516.7 593.3,-1533.2"/>
 <polygon fill="#000000" stroke="#000000" points="591.7747,-1536.3511 602.27,-1537.8 594.9689,-1530.1224 591.7747,-1536.3511"/>
@@ -102,7 +102,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4894&#45;&gt;ZcashFoundation/zebra#4350 -->
-<g id="edge6" class="edge">
+<g id="edge7" class="edge">
 <title>ZcashFoundation/zebra#4894&#45;&gt;ZcashFoundation/zebra#4350</title>
 <path fill="none" stroke="#000000" d="M493.51,-1291.7C495.86,-1289.1 498.03,-1286.4 500,-1283.5 564.65,-1188.1 463.33,-341.92 528,-246.5 536.37,-234.14 547.77,-224.23 560.51,-216.29"/>
 <polygon fill="#000000" stroke="#000000" points="562.6018,-219.1243 569.52,-211.1 559.1078,-213.0586 562.6018,-219.1243"/>
@@ -173,7 +173,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4684&#45;&gt;ZcashFoundation/zebra#3117 -->
-<g id="edge7" class="edge">
+<g id="edge8" class="edge">
 <title>ZcashFoundation/zebra#4684&#45;&gt;ZcashFoundation/zebra#3117</title>
 <path fill="none" stroke="#000000" d="M492.52,-1048.3C495.24,-1045.6 497.75,-1042.6 500,-1039.5 563.49,-950.98 458.91,-143.72 528,-59.5 533.32,-53.017 539.63,-47.651 546.59,-43.224"/>
 <polygon fill="#000000" stroke="#000000" points="548.7098,-46.0481 555.72,-38.104 545.2859,-39.9426 548.7098,-46.0481"/>
@@ -202,7 +202,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#1904&#45;&gt;ZcashFoundation/zebra#1791 -->
-<g id="edge8" class="edge">
+<g id="edge9" class="edge">
 <title>ZcashFoundation/zebra#1904&#45;&gt;ZcashFoundation/zebra#1791</title>
 <path fill="none" stroke="#000000" d="M788.31,-1427.5C803.15,-1427.5 818.4,-1427.5 833.39,-1427.5"/>
 <polygon fill="#000000" stroke="#000000" points="833.72,-1431.0001 843.72,-1427.5 833.72,-1424.0001 833.72,-1431.0001"/>
@@ -231,7 +231,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4882&#45;&gt;ZcashFoundation/zebra#4612 -->
-<g id="edge9" class="edge">
+<g id="edge10" class="edge">
 <title>ZcashFoundation/zebra#4882&#45;&gt;ZcashFoundation/zebra#4612</title>
 <path fill="none" stroke="#000000" d="M492.52,-1134.3C495.24,-1131.6 497.75,-1128.6 500,-1125.5 563.23,-1037.3 462.22,-235.77 528,-149.5 533.35,-142.48 539.8,-136.54 546.96,-131.53"/>
 <polygon fill="#000000" stroke="#000000" points="549.0686,-134.3389 555.68,-126.06 545.3488,-128.4091 549.0686,-134.3389"/>
