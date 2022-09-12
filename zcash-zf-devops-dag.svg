@@ -20,7 +20,7 @@
 <text text-anchor="middle" x="534" y="-897.61" font-family="Times,serif" font-size="14.00" fill="#000000">DevOps Ticket Tracker</text>
 </g>
 <g id="clust3" class="cluster">
-<title>cluster_3</title>
+<title>cluster_2</title>
 <polygon fill="none" stroke="#0000ff" points="0,-23.53 0,-958.81 800,-958.81 800,-23.53 0,-23.53"/>
 <text text-anchor="middle" x="400" y="-943.61" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra as a lightwalletd backend</text>
 </g>
