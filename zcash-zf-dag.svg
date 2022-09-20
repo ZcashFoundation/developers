@@ -590,24 +590,11 @@
 <path fill="none" stroke="#000000" d="M232.38,-1799.1C240.81,-1800.8 249.33,-1802.4 257.81,-1804"/>
 <polygon fill="#000000" stroke="#000000" points="257.2604,-1807.4583 267.74,-1805.9 258.576,-1800.583 257.2604,-1807.4583"/>
 </g>
-<!-- ZcashFoundation/zebra#5198 -->
-<g id="node42" class="node open">
-<title>ZcashFoundation/zebra#5198</title>
-<g id="a_node42"><a xlink:href="https://github.com/ZcashFoundation/zebra/pull/5198" xlink:title="ZcashFoundation/zebra#5198&#10;build(deps): bump insta&#10;from 1.19.1 to 1.20.0" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="232,-1173.5 0,-1173.5 0,-1169.5 -4,-1169.5 -4,-1165.5 0,-1165.5 0,-1128.5 -4,-1128.5 -4,-1124.5 0,-1124.5 0,-1120.5 232,-1120.5 232,-1173.5"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" points="0,-1169.5 4,-1169.5 4,-1165.5 0,-1165.5 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" points="0,-1128.5 4,-1128.5 4,-1124.5 0,-1124.5 "/>
-<text text-anchor="middle" x="116" y="-1158.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5198</text>
-<text text-anchor="middle" x="116" y="-1143.3" font-family="Times,serif" font-size="14.00" fill="#000000">build(deps): bump insta</text>
-<text text-anchor="middle" x="116" y="-1128.3" font-family="Times,serif" font-size="14.00" fill="#000000">from 1.19.1 to 1.20.0</text>
-</a>
-</g>
-</g>
 <!-- ZcashFoundation/zebra#5199 -->
-<g id="node43" class="node open">
+<g id="node42" class="node open">
 <title>ZcashFoundation/zebra#5199</title>
-<g id="a_node43"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5199" xlink:title="ZcashFoundation/zebra#5199&#10;Consider using `nextest`&#10;to run tests faster and&#10;reduce Google Cloud costs" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="500,-1181 268,-1181 268,-1113 500,-1113 500,-1181"/>
+<g id="a_node42"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5199" xlink:title="ZcashFoundation/zebra#5199&#10;Consider using `nextest`&#10;to run tests faster and&#10;reduce Google Cloud costs" target="_blank">
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="500,-1181 268,-1181 268,-1113 500,-1113 500,-1181"/>
 <text text-anchor="middle" x="384" y="-1165.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5199</text>
 <text text-anchor="middle" x="384" y="-1150.8" font-family="Times,serif" font-size="14.00" fill="#000000">Consider using `nextest`</text>
 <text text-anchor="middle" x="384" y="-1135.8" font-family="Times,serif" font-size="14.00" fill="#000000">to run tests faster and</text>
@@ -615,22 +602,16 @@
 </a>
 </g>
 </g>
-<!-- ZcashFoundation/zebra#5198&#45;&gt;ZcashFoundation/zebra#5199 -->
-<g id="edge14" class="edge">
-<title>ZcashFoundation/zebra#5198&#45;&gt;ZcashFoundation/zebra#5199</title>
-<path fill="none" stroke="#000000" d="M232.38,-1147C240.71,-1147 249.14,-1147 257.53,-1147"/>
-<polygon fill="#000000" stroke="#000000" points="257.74,-1150.5001 267.74,-1147 257.74,-1143.5001 257.74,-1150.5001"/>
-</g>
 <!-- ZcashFoundation/zebra#5199&#45;&gt;ZcashFoundation/zebra#5189 -->
-<g id="edge15" class="edge">
+<g id="edge14" class="edge">
 <title>ZcashFoundation/zebra#5199&#45;&gt;ZcashFoundation/zebra#5189</title>
 <path fill="none" stroke="#000000" d="M500.38,-1145.3C508.71,-1145.1 517.14,-1145 525.53,-1144.9"/>
 <polygon fill="#000000" stroke="#000000" points="525.8105,-1148.3953 535.74,-1144.7 525.6733,-1141.3966 525.8105,-1148.3953"/>
 </g>
 <!-- ZcashFoundation/zebra#4545 -->
-<g id="node44" class="node open">
+<g id="node43" class="node open">
 <title>ZcashFoundation/zebra#4545</title>
-<g id="a_node44"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4545" xlink:title="ZcashFoundation/zebra#4545&#10;Start disconnecting from&#10;outdated peers before&#10;network upgrade&#10;activation" target="_blank">
+<g id="a_node43"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4545" xlink:title="ZcashFoundation/zebra#4545&#10;Start disconnecting from&#10;outdated peers before&#10;network upgrade&#10;activation" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="232,-2192.5 0,-2192.5 0,-2109.5 232,-2109.5 232,-2192.5"/>
 <text text-anchor="middle" x="116" y="-2177.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#4545</text>
 <text text-anchor="middle" x="116" y="-2162.3" font-family="Times,serif" font-size="14.00" fill="#000000">Start disconnecting from</text>
@@ -641,9 +622,9 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4226 -->
-<g id="node45" class="node closed">
+<g id="node44" class="node closed">
 <title>ZcashFoundation/zebra#4226</title>
-<g id="a_node45"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4226" xlink:title="ZcashFoundation/zebra#4226&#10;Prefer faster peers, but&#10;if all peers are slow,&#10;still connect to them" target="_blank">
+<g id="a_node44"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4226" xlink:title="ZcashFoundation/zebra#4226&#10;Prefer faster peers, but&#10;if all peers are slow,&#10;still connect to them" target="_blank">
 <polygon fill="#fad8c7" stroke="#000000" points="500,-2185 268,-2185 268,-2117 500,-2117 500,-2185"/>
 <text text-anchor="middle" x="384" y="-2169.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#4226</text>
 <text text-anchor="middle" x="384" y="-2154.8" font-family="Times,serif" font-size="14.00" fill="#000000">Prefer faster peers, but</text>
@@ -653,7 +634,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4545&#45;&gt;ZcashFoundation/zebra#4226 -->
-<g id="edge16" class="edge">
+<g id="edge15" class="edge">
 <title>ZcashFoundation/zebra#4545&#45;&gt;ZcashFoundation/zebra#4226</title>
 <path fill="none" stroke="#000000" d="M232.38,-2151C240.71,-2151 249.14,-2151 257.53,-2151"/>
 <polygon fill="#000000" stroke="#000000" points="257.74,-2154.5001 267.74,-2151 257.74,-2147.5001 257.74,-2154.5001"/>
