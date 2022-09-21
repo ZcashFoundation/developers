@@ -10,12 +10,12 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1048)">
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1048 820,-1048 820,4 -4,4"/>
 <g id="clust1" class="cluster">
-<title>cluster_2</title>
+<title>cluster_1</title>
 <polygon fill="none" stroke="#0000ff" points="0,0 0,-968 248,-968 248,0 0,0"/>
 <text text-anchor="middle" x="124" y="-952.8" font-family="Times,serif" font-size="14.00" fill="#000000">DevOps Ticket Tracker</text>
 </g>
 <g id="clust2" class="cluster">
-<title>cluster_1</title>
+<title>cluster_3</title>
 <polygon fill="none" stroke="#0000ff" points="268,-423 268,-530 556,-530 556,-423 268,-423"/>
 <text text-anchor="middle" x="412" y="-514.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra as a lightwalletd backend</text>
 </g>
