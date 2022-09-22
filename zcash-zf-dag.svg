@@ -25,7 +25,7 @@
 <text text-anchor="middle" x="518" y="-2097.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra as a lightwalletd backend</text>
 </g>
 <g id="clust4" class="cluster">
-<title>cluster_3</title>
+<title>cluster_4</title>
 <polygon fill="none" stroke="#0000ff" points="0,0 0,-2113 1036,-2113 1036,0 0,0"/>
 <text text-anchor="middle" x="518" y="-2097.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Commit blocks to state using a separate task</text>
 </g>
