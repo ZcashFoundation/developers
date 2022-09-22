@@ -20,14 +20,14 @@
 <text text-anchor="middle" x="652" y="-1017.3" font-family="Times,serif" font-size="14.00" fill="#000000">DevOps Ticket Tracker</text>
 </g>
 <g id="clust3" class="cluster">
-<title>cluster_2</title>
-<polygon fill="none" stroke="#0000ff" points="0,0 0,-2113 1036,-2113 1036,0 0,0"/>
-<text text-anchor="middle" x="518" y="-2097.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra as a lightwalletd backend</text>
-</g>
-<g id="clust4" class="cluster">
 <title>cluster_3</title>
 <polygon fill="none" stroke="#0000ff" points="0,0 0,-2113 1036,-2113 1036,0 0,0"/>
 <text text-anchor="middle" x="518" y="-2097.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Commit blocks to state using a separate task</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_2</title>
+<polygon fill="none" stroke="#0000ff" points="0,0 0,-2113 1036,-2113 1036,0 0,0"/>
+<text text-anchor="middle" x="518" y="-2097.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra as a lightwalletd backend</text>
 </g>
 <!-- ZcashFoundation/zebra#3050 -->
 <g id="node1" class="node open">
