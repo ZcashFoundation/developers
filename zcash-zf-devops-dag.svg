@@ -15,12 +15,12 @@
 <text text-anchor="middle" x="384" y="-657.3" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra Release Candidate</text>
 </g>
 <g id="clust2" class="cluster">
-<title>cluster_2</title>
+<title>cluster_1</title>
 <polygon fill="none" stroke="#0000ff" points="528,-63.5 528,-916.5 776,-916.5 776,-63.5 528,-63.5"/>
 <text text-anchor="middle" x="652" y="-901.3" font-family="Times,serif" font-size="14.00" fill="#000000">DevOps Ticket Tracker</text>
 </g>
 <g id="clust3" class="cluster">
-<title>cluster_3</title>
+<title>cluster_2</title>
 <polygon fill="none" stroke="#0000ff" points="0,0 0,-924.5 1036,-924.5 1036,0 0,0"/>
 <text text-anchor="middle" x="518" y="-909.3" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra as a lightwalletd backend</text>
 </g>
