@@ -242,11 +242,11 @@
 <g id="node16" class="node open">
 <title>ZcashFoundation/zebra#5153</title>
 <g id="a_node16"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5153" xlink:title="ZcashFoundation/zebra#5153&#10;Tag Google Cloud&#10;instances with the name&#10;of the test or workflow" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="232,-675 0,-675 0,-607 232,-607 232,-675"/>
-<text text-anchor="middle" x="116" y="-659.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5153</text>
-<text text-anchor="middle" x="116" y="-644.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tag Google Cloud</text>
-<text text-anchor="middle" x="116" y="-629.8" font-family="Times,serif" font-size="14.00" fill="#000000">instances with the name</text>
-<text text-anchor="middle" x="116" y="-614.8" font-family="Times,serif" font-size="14.00" fill="#000000">of the test or workflow</text>
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="232,-714 0,-714 0,-646 232,-646 232,-714"/>
+<text text-anchor="middle" x="116" y="-698.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5153</text>
+<text text-anchor="middle" x="116" y="-683.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tag Google Cloud</text>
+<text text-anchor="middle" x="116" y="-668.8" font-family="Times,serif" font-size="14.00" fill="#000000">instances with the name</text>
+<text text-anchor="middle" x="116" y="-653.8" font-family="Times,serif" font-size="14.00" fill="#000000">of the test or workflow</text>
 </a>
 </g>
 </g>
@@ -254,48 +254,66 @@
 <g id="node17" class="node closed">
 <title>ZcashFoundation/zebra#5155</title>
 <g id="a_node17"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5155" xlink:title="ZcashFoundation/zebra#5155&#10;Decide if we want to&#10;create cached states more&#10;often" target="_blank">
-<polygon fill="#fad8c7" stroke="#000000" points="500,-675 268,-675 268,-607 500,-607 500,-675"/>
-<text text-anchor="middle" x="384" y="-659.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5155</text>
-<text text-anchor="middle" x="384" y="-644.8" font-family="Times,serif" font-size="14.00" fill="#000000">Decide if we want to</text>
-<text text-anchor="middle" x="384" y="-629.8" font-family="Times,serif" font-size="14.00" fill="#000000">create cached states more</text>
-<text text-anchor="middle" x="384" y="-614.8" font-family="Times,serif" font-size="14.00" fill="#000000">often</text>
+<polygon fill="#fad8c7" stroke="#000000" points="500,-761 268,-761 268,-693 500,-693 500,-761"/>
+<text text-anchor="middle" x="384" y="-745.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5155</text>
+<text text-anchor="middle" x="384" y="-730.8" font-family="Times,serif" font-size="14.00" fill="#000000">Decide if we want to</text>
+<text text-anchor="middle" x="384" y="-715.8" font-family="Times,serif" font-size="14.00" fill="#000000">create cached states more</text>
+<text text-anchor="middle" x="384" y="-700.8" font-family="Times,serif" font-size="14.00" fill="#000000">often</text>
 </a>
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5153&#45;&gt;ZcashFoundation/zebra#5155 -->
 <g id="edge8" class="edge">
 <title>ZcashFoundation/zebra#5153&#45;&gt;ZcashFoundation/zebra#5155</title>
-<path fill="none" stroke="#000000" d="M232.38,-641C240.71,-641 249.14,-641 257.53,-641"/>
-<polygon fill="#000000" stroke="#000000" points="257.74,-644.5001 267.74,-641 257.74,-637.5001 257.74,-644.5001"/>
+<path fill="none" stroke="#000000" d="M232.38,-700.41C240.81,-701.89 249.33,-703.38 257.81,-704.87"/>
+<polygon fill="#000000" stroke="#000000" points="257.286,-708.3314 267.74,-706.61 258.4942,-701.4365 257.286,-708.3314"/>
+</g>
+<!-- ZcashFoundation/zebra#5188 -->
+<g id="node18" class="node closed">
+<title>ZcashFoundation/zebra#5188</title>
+<g id="a_node18"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5188" xlink:title="ZcashFoundation/zebra#5188&#10;Reduce continuous&#10;deployment instance group&#10;size to 1" target="_blank">
+<polygon fill="#fad8c7" stroke="#000000" points="500,-675 268,-675 268,-607 500,-607 500,-675"/>
+<text text-anchor="middle" x="384" y="-659.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5188</text>
+<text text-anchor="middle" x="384" y="-644.8" font-family="Times,serif" font-size="14.00" fill="#000000">Reduce continuous</text>
+<text text-anchor="middle" x="384" y="-629.8" font-family="Times,serif" font-size="14.00" fill="#000000">deployment instance group</text>
+<text text-anchor="middle" x="384" y="-614.8" font-family="Times,serif" font-size="14.00" fill="#000000">size to 1</text>
+</a>
+</g>
+</g>
+<!-- ZcashFoundation/zebra#5153&#45;&gt;ZcashFoundation/zebra#5188 -->
+<g id="edge9" class="edge">
+<title>ZcashFoundation/zebra#5153&#45;&gt;ZcashFoundation/zebra#5188</title>
+<path fill="none" stroke="#000000" d="M232.38,-663.06C240.81,-661.84 249.33,-660.6 257.81,-659.36"/>
+<polygon fill="#000000" stroke="#000000" points="258.3458,-662.819 267.74,-657.92 257.3412,-655.8915 258.3458,-662.819"/>
 </g>
 <!-- ZcashFoundation/zebra#5189 -->
-<g id="node18" class="node open">
+<g id="node19" class="node open">
 <title>ZcashFoundation/zebra#5189</title>
-<g id="a_node18"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5189" xlink:title="ZcashFoundation/zebra#5189&#10;Run some docker tests on&#10;smaller instances" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="500,-753.5 268,-753.5 268,-700.5 500,-700.5 500,-753.5"/>
-<text text-anchor="middle" x="384" y="-738.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5189</text>
-<text text-anchor="middle" x="384" y="-723.3" font-family="Times,serif" font-size="14.00" fill="#000000">Run some docker tests on</text>
-<text text-anchor="middle" x="384" y="-708.3" font-family="Times,serif" font-size="14.00" fill="#000000">smaller instances</text>
+<g id="a_node19"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5189" xlink:title="ZcashFoundation/zebra#5189&#10;Run some docker tests on&#10;smaller instances" target="_blank">
+<polygon fill="#c2e0c6" stroke="#000000" points="500,-832.5 268,-832.5 268,-779.5 500,-779.5 500,-832.5"/>
+<text text-anchor="middle" x="384" y="-817.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5189</text>
+<text text-anchor="middle" x="384" y="-802.3" font-family="Times,serif" font-size="14.00" fill="#000000">Run some docker tests on</text>
+<text text-anchor="middle" x="384" y="-787.3" font-family="Times,serif" font-size="14.00" fill="#000000">smaller instances</text>
 </a>
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5199 -->
-<g id="node19" class="node open">
+<g id="node20" class="node open">
 <title>ZcashFoundation/zebra#5199</title>
-<g id="a_node19"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5199" xlink:title="ZcashFoundation/zebra#5199&#10;Consider using `nextest`&#10;to run tests faster and&#10;reduce Google Cloud costs" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="232,-761 0,-761 0,-693 232,-693 232,-761"/>
-<text text-anchor="middle" x="116" y="-745.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5199</text>
-<text text-anchor="middle" x="116" y="-730.8" font-family="Times,serif" font-size="14.00" fill="#000000">Consider using `nextest`</text>
-<text text-anchor="middle" x="116" y="-715.8" font-family="Times,serif" font-size="14.00" fill="#000000">to run tests faster and</text>
-<text text-anchor="middle" x="116" y="-700.8" font-family="Times,serif" font-size="14.00" fill="#000000">reduce Google Cloud costs</text>
+<g id="a_node20"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5199" xlink:title="ZcashFoundation/zebra#5199&#10;Consider using `nextest`&#10;to run tests faster and&#10;reduce Google Cloud costs" target="_blank">
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="232,-840 0,-840 0,-772 232,-772 232,-840"/>
+<text text-anchor="middle" x="116" y="-824.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5199</text>
+<text text-anchor="middle" x="116" y="-809.8" font-family="Times,serif" font-size="14.00" fill="#000000">Consider using `nextest`</text>
+<text text-anchor="middle" x="116" y="-794.8" font-family="Times,serif" font-size="14.00" fill="#000000">to run tests faster and</text>
+<text text-anchor="middle" x="116" y="-779.8" font-family="Times,serif" font-size="14.00" fill="#000000">reduce Google Cloud costs</text>
 </a>
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5199&#45;&gt;ZcashFoundation/zebra#5189 -->
-<g id="edge9" class="edge">
+<g id="edge10" class="edge">
 <title>ZcashFoundation/zebra#5199&#45;&gt;ZcashFoundation/zebra#5189</title>
-<path fill="none" stroke="#000000" d="M232.38,-727C240.71,-727 249.14,-727 257.53,-727"/>
-<polygon fill="#000000" stroke="#000000" points="257.74,-730.5001 267.74,-727 257.74,-723.5001 257.74,-730.5001"/>
+<path fill="none" stroke="#000000" d="M232.38,-806C240.71,-806 249.14,-806 257.53,-806"/>
+<polygon fill="#000000" stroke="#000000" points="257.74,-809.5001 267.74,-806 257.74,-802.5001 257.74,-809.5001"/>
 </g>
 </g>
 </svg>
