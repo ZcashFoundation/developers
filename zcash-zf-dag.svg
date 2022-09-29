@@ -15,7 +15,7 @@
 <text text-anchor="middle" x="619" y="-241.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Zebra Release Candidate</text>
 </g>
 <g id="clust2" class="cluster">
-<title>cluster_2</title>
+<title>cluster_1</title>
 <polygon fill="none" stroke="#0000ff" points="260,-632 260,-769 643,-769 643,-632 260,-632"/>
 <text text-anchor="middle" x="451.5" y="-753.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Commit blocks to state using a separate task</text>
 </g>
