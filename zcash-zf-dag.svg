@@ -468,10 +468,10 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5399 -->
-<g id="node34" class="node open">
+<g id="node34" class="node closed">
 <title>ZcashFoundation/zebra#5399</title>
 <g id="a_node34"><a xlink:href="https://github.com/ZcashFoundation/zebra/pull/5399" xlink:title="ZcashFoundation/zebra#5399&#10;fix(ci): Limit checkpoint&#10;and lwd full sync&#10;concurrency" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="508,-2293 276,-2293 276,-2289 272,-2289 272,-2285 276,-2285 276,-2233 272,-2233 272,-2229 276,-2229 276,-2225 508,-2225 508,-2293"/>
+<polygon fill="#fad8c7" stroke="#000000" points="508,-2293 276,-2293 276,-2289 272,-2289 272,-2285 276,-2285 276,-2233 272,-2233 272,-2229 276,-2229 276,-2225 508,-2225 508,-2293"/>
 <polyline fill="none" stroke="#000000" points="276,-2289 280,-2289 280,-2285 276,-2285 "/>
 <polyline fill="none" stroke="#000000" points="276,-2233 280,-2233 280,-2229 276,-2229 "/>
 <text text-anchor="middle" x="392" y="-2277.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5399</text>
