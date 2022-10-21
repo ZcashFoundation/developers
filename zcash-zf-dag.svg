@@ -34,17 +34,17 @@
 <g id="node2" class="node open">
 <title>ZcashFoundation/zebra#5423</title>
 <g id="a_node2"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5423" xlink:title="ZcashFoundation/zebra#5423&#10;Tag Zebra 1.0.0&#45;rc.1" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="508,-323.5 276,-323.5 276,-285.5 508,-285.5 508,-323.5"/>
-<text text-anchor="middle" x="392" y="-308.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5423</text>
-<text text-anchor="middle" x="392" y="-293.3" font-family="Times,serif" font-size="14.00" fill="#000000">Tag Zebra 1.0.0&#45;rc.1</text>
+<polygon fill="#c2e0c6" stroke="#000000" points="508,-288.5 276,-288.5 276,-250.5 508,-250.5 508,-288.5"/>
+<text text-anchor="middle" x="392" y="-273.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5423</text>
+<text text-anchor="middle" x="392" y="-258.3" font-family="Times,serif" font-size="14.00" fill="#000000">Tag Zebra 1.0.0&#45;rc.1</text>
 </a>
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5214&#45;&gt;ZcashFoundation/zebra#5423 -->
 <g id="edge1" class="edge">
 <title>ZcashFoundation/zebra#5214&#45;&gt;ZcashFoundation/zebra#5423</title>
-<path fill="none" stroke="#000000" d="M216.55,-384.94C224.53,-382.24 232.44,-379.41 240,-376.5 276.63,-362.39 316.71,-343.24 346.52,-328.24"/>
-<polygon fill="#000000" stroke="#000000" points="348.4801,-331.17 355.81,-323.52 345.3093,-324.9293 348.4801,-331.17"/>
+<path fill="none" stroke="#000000" d="M220.81,-384.89C227.4,-382.29 233.85,-379.49 240,-376.5 285.62,-354.28 332.53,-319 361.95,-295.08"/>
+<polygon fill="#000000" stroke="#000000" points="364.2644,-297.7081 369.76,-288.65 359.8152,-292.304 364.2644,-297.7081"/>
 </g>
 <!-- ZcashFoundation/zebra#3831 -->
 <g id="node3" class="node open">
@@ -60,8 +60,8 @@
 <!-- ZcashFoundation/zebra#3831&#45;&gt;ZcashFoundation/zebra#5423 -->
 <g id="edge2" class="edge">
 <title>ZcashFoundation/zebra#3831&#45;&gt;ZcashFoundation/zebra#5423</title>
-<path fill="none" stroke="#000000" d="M240.38,-324.87C248.81,-323.73 257.33,-322.59 265.81,-321.45"/>
-<polygon fill="#000000" stroke="#000000" points="266.2932,-324.9166 275.74,-320.12 265.3638,-317.9786 266.2932,-324.9166"/>
+<path fill="none" stroke="#000000" d="M224.17,-313.96C252.51,-306.45 283.01,-298.38 310.13,-291.19"/>
+<polygon fill="#000000" stroke="#000000" points="311.1874,-294.5308 319.96,-288.59 309.3975,-287.7635 311.1874,-294.5308"/>
 </g>
 <!-- ZcashFoundation/zebra#5445 -->
 <g id="node4" class="node open">
@@ -77,30 +77,36 @@
 <!-- ZcashFoundation/zebra#5445&#45;&gt;ZcashFoundation/zebra#5423 -->
 <g id="edge3" class="edge">
 <title>ZcashFoundation/zebra#5445&#45;&gt;ZcashFoundation/zebra#5423</title>
-<path fill="none" stroke="#000000" d="M240.38,-284.7C248.81,-285.8 257.33,-286.91 265.81,-288.02"/>
-<polygon fill="#000000" stroke="#000000" points="265.3702,-291.4922 275.74,-289.32 266.279,-284.5514 265.3702,-291.4922"/>
+<path fill="none" stroke="#000000" d="M240.38,-269.5C248.71,-269.5 257.14,-269.5 265.53,-269.5"/>
+<polygon fill="#000000" stroke="#000000" points="265.74,-273.0001 275.74,-269.5 265.74,-266.0001 265.74,-273.0001"/>
 </g>
-<!-- ZcashFoundation/zebra#5091 -->
+<!-- ZcashFoundation/zebra#5446 -->
 <g id="node5" class="node open">
-<title>ZcashFoundation/zebra#5091</title>
-<g id="a_node5"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5091" xlink:title="ZcashFoundation/zebra#5091&#10;Fix parameter download&#10;hangs with Rust 1.64" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-225 8,-225 8,-172 240,-172 240,-225"/>
-<text text-anchor="middle" x="124" y="-209.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5091</text>
-<text text-anchor="middle" x="124" y="-194.8" font-family="Times,serif" font-size="14.00" fill="#000000">Fix parameter download</text>
-<text text-anchor="middle" x="124" y="-179.8" font-family="Times,serif" font-size="14.00" fill="#000000">hangs with Rust 1.64</text>
+<title>ZcashFoundation/zebra#5446</title>
+<g id="a_node5"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5446" xlink:title="ZcashFoundation/zebra#5446&#10;Audit: remove zebra&#45;chain&#10;cryptographic&#10;implementations that are&#10;unused" target="_blank">
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-225 8,-225 8,-142 240,-142 240,-225"/>
+<text text-anchor="middle" x="124" y="-209.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5446</text>
+<text text-anchor="middle" x="124" y="-194.8" font-family="Times,serif" font-size="14.00" fill="#000000">Audit: remove zebra&#45;chain</text>
+<text text-anchor="middle" x="124" y="-179.8" font-family="Times,serif" font-size="14.00" fill="#000000">cryptographic</text>
+<text text-anchor="middle" x="124" y="-164.8" font-family="Times,serif" font-size="14.00" fill="#000000">implementations that are</text>
+<text text-anchor="middle" x="124" y="-149.8" font-family="Times,serif" font-size="14.00" fill="#000000">unused</text>
 </a>
 </g>
 </g>
-<!-- ZcashFoundation/zebra#5446 -->
+<!-- ZcashFoundation/zebra#5446&#45;&gt;ZcashFoundation/zebra#5423 -->
+<g id="edge4" class="edge">
+<title>ZcashFoundation/zebra#5446&#45;&gt;ZcashFoundation/zebra#5423</title>
+<path fill="none" stroke="#000000" d="M240.38,-220.85C268.44,-229.85 297.55,-239.19 322.67,-247.25"/>
+<polygon fill="#000000" stroke="#000000" points="321.8587,-250.6654 332.45,-250.39 323.9987,-244.0005 321.8587,-250.6654"/>
+</g>
+<!-- ZcashFoundation/zebra#5091 -->
 <g id="node6" class="node open">
-<title>ZcashFoundation/zebra#5446</title>
-<g id="a_node6"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5446" xlink:title="ZcashFoundation/zebra#5446&#10;Audit: remove zebra&#45;chain&#10;cryptographic&#10;implementations that are&#10;unused" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-154 8,-154 8,-71 240,-71 240,-154"/>
-<text text-anchor="middle" x="124" y="-138.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5446</text>
-<text text-anchor="middle" x="124" y="-123.8" font-family="Times,serif" font-size="14.00" fill="#000000">Audit: remove zebra&#45;chain</text>
-<text text-anchor="middle" x="124" y="-108.8" font-family="Times,serif" font-size="14.00" fill="#000000">cryptographic</text>
-<text text-anchor="middle" x="124" y="-93.8" font-family="Times,serif" font-size="14.00" fill="#000000">implementations that are</text>
-<text text-anchor="middle" x="124" y="-78.8" font-family="Times,serif" font-size="14.00" fill="#000000">unused</text>
+<title>ZcashFoundation/zebra#5091</title>
+<g id="a_node6"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5091" xlink:title="ZcashFoundation/zebra#5091&#10;Fix parameter download&#10;hangs with Rust 1.64" target="_blank">
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="240,-124 8,-124 8,-71 240,-71 240,-124"/>
+<text text-anchor="middle" x="124" y="-108.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5091</text>
+<text text-anchor="middle" x="124" y="-93.8" font-family="Times,serif" font-size="14.00" fill="#000000">Fix parameter download</text>
+<text text-anchor="middle" x="124" y="-78.8" font-family="Times,serif" font-size="14.00" fill="#000000">hangs with Rust 1.64</text>
 </a>
 </g>
 </g>
@@ -129,7 +135,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2631&#45;&gt;ZcashFoundation/zebra#5235 -->
-<g id="edge4" class="edge">
+<g id="edge5" class="edge">
 <title>ZcashFoundation/zebra#2631&#45;&gt;ZcashFoundation/zebra#5235</title>
 <path fill="none" stroke="#000000" d="M228.49,-907.49C232.54,-904.72 236.4,-901.73 240,-898.5 266.63,-874.61 249.37,-850.39 276,-826.5 277.12,-825.49 278.27,-824.51 279.45,-823.54"/>
 <polygon fill="#000000" stroke="#000000" points="281.5995,-826.303 287.51,-817.51 277.4062,-820.698 281.5995,-826.303"/>
@@ -146,7 +152,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2631&#45;&gt;ZcashFoundation/zebra#5236 -->
-<g id="edge5" class="edge">
+<g id="edge6" class="edge">
 <title>ZcashFoundation/zebra#2631&#45;&gt;ZcashFoundation/zebra#5236</title>
 <path fill="none" stroke="#000000" d="M240.38,-944.54C248.71,-944.76 257.14,-944.98 265.53,-945.2"/>
 <polygon fill="#000000" stroke="#000000" points="265.6541,-948.7042 275.74,-945.46 265.8324,-941.7065 265.6541,-948.7042"/>
@@ -164,7 +170,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5235&#45;&gt;ZcashFoundation/zebra#5336 -->
-<g id="edge6" class="edge">
+<g id="edge7" class="edge">
 <title>ZcashFoundation/zebra#5235&#45;&gt;ZcashFoundation/zebra#5336</title>
 <path fill="none" stroke="#000000" d="M508.38,-802.17C516.81,-803.52 525.33,-804.89 533.81,-806.25"/>
 <polygon fill="#000000" stroke="#000000" points="533.3105,-809.7146 543.74,-807.85 534.4241,-802.8037 533.3105,-809.7146"/>
@@ -182,7 +188,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5335&#45;&gt;ZcashFoundation/zebra#5336 -->
-<g id="edge7" class="edge">
+<g id="edge8" class="edge">
 <title>ZcashFoundation/zebra#5335&#45;&gt;ZcashFoundation/zebra#5336</title>
 <path fill="none" stroke="#000000" d="M508.38,-850.83C516.81,-849.48 525.33,-848.11 533.81,-846.75"/>
 <polygon fill="#000000" stroke="#000000" points="534.4241,-850.1963 543.74,-845.15 533.3105,-843.2854 534.4241,-850.1963"/>
@@ -200,7 +206,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5376&#45;&gt;ZcashFoundation/zebra#5235 -->
-<g id="edge8" class="edge">
+<g id="edge9" class="edge">
 <title>ZcashFoundation/zebra#5376&#45;&gt;ZcashFoundation/zebra#5235</title>
 <path fill="none" stroke="#000000" d="M240.38,-824.23C248.81,-821.97 257.33,-819.68 265.81,-817.4"/>
 <polygon fill="#000000" stroke="#000000" points="266.9862,-820.7084 275.74,-814.74 265.1749,-813.9468 266.9862,-820.7084"/>
@@ -231,7 +237,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5405&#45;&gt;ZcashFoundation/zebra#4967 -->
-<g id="edge9" class="edge">
+<g id="edge10" class="edge">
 <title>ZcashFoundation/zebra#5405&#45;&gt;ZcashFoundation/zebra#4967</title>
 <path fill="none" stroke="#000000" d="M231.41,-735.19C234.49,-732.51 237.37,-729.62 240,-726.5 293.54,-663.07 223.17,-603.65 273.67,-539.03"/>
 <polygon fill="#000000" stroke="#000000" points="276.5905,-541.0008 280.44,-531.13 271.2752,-536.4458 276.5905,-541.0008"/>
@@ -309,7 +315,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2375&#45;&gt;ZcashFoundation/zebra#794 -->
-<g id="edge10" class="edge">
+<g id="edge11" class="edge">
 <title>ZcashFoundation/zebra#2375&#45;&gt;ZcashFoundation/zebra#794</title>
 <path fill="none" stroke="#000000" d="M240.38,-1221.5C250.23,-1221.5 260.22,-1221.5 270.11,-1221.5"/>
 <polygon fill="#000000" stroke="#000000" points="270.39,-1225.0001 280.39,-1221.5 270.39,-1218.0001 270.39,-1225.0001"/>
@@ -418,7 +424,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5153&#45;&gt;ZcashFoundation/zebra#5189 -->
-<g id="edge11" class="edge">
+<g id="edge12" class="edge">
 <title>ZcashFoundation/zebra#5153&#45;&gt;ZcashFoundation/zebra#5189</title>
 <path fill="none" stroke="#000000" d="M232.62,-2100.5C254.04,-2107.3 276.36,-2114.3 297.27,-2120.8"/>
 <polygon fill="#000000" stroke="#000000" points="296.5103,-2124.2303 307.1,-2123.9 298.6157,-2117.5544 296.5103,-2124.2303"/>
@@ -436,7 +442,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5153&#45;&gt;ZcashFoundation/zebra#5155 -->
-<g id="edge12" class="edge">
+<g id="edge13" class="edge">
 <title>ZcashFoundation/zebra#5153&#45;&gt;ZcashFoundation/zebra#5155</title>
 <path fill="none" stroke="#000000" d="M240.38,-2067.4C248.71,-2067.4 257.14,-2067.5 265.53,-2067.6"/>
 <polygon fill="#000000" stroke="#000000" points="265.74,-2071.1001 275.74,-2067.6 265.74,-2064.1001 265.74,-2071.1001"/>
@@ -454,7 +460,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5153&#45;&gt;ZcashFoundation/zebra#5188 -->
-<g id="edge13" class="edge">
+<g id="edge14" class="edge">
 <title>ZcashFoundation/zebra#5153&#45;&gt;ZcashFoundation/zebra#5188</title>
 <path fill="none" stroke="#000000" d="M232.62,-2032.5C246.05,-2028.2 259.83,-2023.9 273.39,-2019.7"/>
 <polygon fill="#000000" stroke="#000000" points="274.7438,-2022.9431 283.23,-2016.6 272.6404,-2016.2666 274.7438,-2022.9431"/>
@@ -497,7 +503,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4774&#45;&gt;ZcashFoundation/zebra#4841 -->
-<g id="edge14" class="edge">
+<g id="edge15" class="edge">
 <title>ZcashFoundation/zebra#4774&#45;&gt;ZcashFoundation/zebra#4841</title>
 <path fill="none" stroke="#000000" d="M240.38,-1780.4C248.81,-1778.7 257.33,-1777.1 265.81,-1775.5"/>
 <polygon fill="#000000" stroke="#000000" points="266.576,-1778.917 275.74,-1773.6 265.2604,-1772.0417 266.576,-1778.917"/>
@@ -516,7 +522,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4775&#45;&gt;ZcashFoundation/zebra#4841 -->
-<g id="edge15" class="edge">
+<g id="edge16" class="edge">
 <title>ZcashFoundation/zebra#4775&#45;&gt;ZcashFoundation/zebra#4841</title>
 <path fill="none" stroke="#000000" d="M240.38,-1723.2C248.81,-1724.8 257.33,-1726.4 265.81,-1728"/>
 <polygon fill="#000000" stroke="#000000" points="265.2761,-1731.4602 275.74,-1729.8 266.5246,-1724.5724 265.2761,-1731.4602"/>
@@ -535,10 +541,10 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5395&#45;&gt;ZcashFoundation/zebra#5423 -->
-<g id="edge16" class="edge">
+<g id="edge17" class="edge">
 <title>ZcashFoundation/zebra#5395&#45;&gt;ZcashFoundation/zebra#5423</title>
-<path fill="none" stroke="#000000" d="M231.92,-53.02C234.71,-54.733 237.41,-56.558 240,-58.5 316.64,-115.95 363.47,-224.39 382.35,-275.92"/>
-<polygon fill="#000000" stroke="#000000" points="379.0928,-277.206 385.76,-285.44 385.6828,-274.8454 379.0928,-277.206"/>
+<path fill="none" stroke="#000000" d="M231.46,-53.107C234.4,-54.796 237.26,-56.591 240,-58.5 308.71,-106.3 357.62,-195.53 379.37,-241.11"/>
+<polygon fill="#000000" stroke="#000000" points="376.3128,-242.8348 383.72,-250.41 382.6534,-239.869 376.3128,-242.8348"/>
 </g>
 <!-- ZcashFoundation/zebra#4882 -->
 <g id="node37" class="node open">
@@ -553,7 +559,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4882&#45;&gt;ZcashFoundation/zebra#4612 -->
-<g id="edge17" class="edge">
+<g id="edge18" class="edge">
 <title>ZcashFoundation/zebra#4882&#45;&gt;ZcashFoundation/zebra#4612</title>
 <path fill="none" stroke="#000000" d="M240.38,-1896.5C248.71,-1896.5 257.14,-1896.5 265.53,-1896.5"/>
 <polygon fill="#000000" stroke="#000000" points="265.74,-1900.0001 275.74,-1896.5 265.74,-1893.0001 265.74,-1900.0001"/>
@@ -571,7 +577,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5199&#45;&gt;ZcashFoundation/zebra#5189 -->
-<g id="edge18" class="edge">
+<g id="edge19" class="edge">
 <title>ZcashFoundation/zebra#5199&#45;&gt;ZcashFoundation/zebra#5189</title>
 <path fill="none" stroke="#000000" d="M240.38,-2151.6C248.71,-2151.6 257.14,-2151.5 265.53,-2151.4"/>
 <polygon fill="#000000" stroke="#000000" points="265.74,-2154.9001 275.74,-2151.4 265.74,-2147.9001 265.74,-2154.9001"/>
@@ -614,7 +620,7 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#4545&#45;&gt;ZcashFoundation/zebra#4226 -->
-<g id="edge19" class="edge">
+<g id="edge20" class="edge">
 <title>ZcashFoundation/zebra#4545&#45;&gt;ZcashFoundation/zebra#4226</title>
 <path fill="none" stroke="#000000" d="M240.38,-2505.5C248.71,-2505.5 257.14,-2505.5 265.53,-2505.5"/>
 <polygon fill="#000000" stroke="#000000" points="265.74,-2509.0001 275.74,-2505.5 265.74,-2502.0001 265.74,-2509.0001"/>
