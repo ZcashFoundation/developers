@@ -28,10 +28,10 @@
 <!-- ZcashFoundation/zebra#5336 -->
 <g id="node11" class="node open">
 <title>ZcashFoundation/zebra#5336</title>
-<g id="a_node11"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5336" xlink:title="ZcashFoundation/zebra#5336&#10;Relay mempool&#10;transactions based on the&#10;ZIP&#45;317 fee rules" target="_blank">
+<g id="a_node11"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5336" xlink:title="ZcashFoundation/zebra#5336&#10;Relay and accept mempool&#10;transactions based on the&#10;ZIP&#45;317 fee rules" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" points="776,-633 544,-633 544,-565 776,-565 776,-633"/>
 <text text-anchor="middle" x="660" y="-617.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5336</text>
-<text text-anchor="middle" x="660" y="-602.8" font-family="Times,serif" font-size="14.00" fill="#000000">Relay mempool</text>
+<text text-anchor="middle" x="660" y="-602.8" font-family="Times,serif" font-size="14.00" fill="#000000">Relay and accept mempool</text>
 <text text-anchor="middle" x="660" y="-587.8" font-family="Times,serif" font-size="14.00" fill="#000000">transactions based on the</text>
 <text text-anchor="middle" x="660" y="-572.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZIP&#45;317 fee rules</text>
 </a>
