@@ -190,14 +190,14 @@
 <!-- ZcashFoundation/zebra#5925 -->
 <g id="node14" class="node open">
 <title>ZcashFoundation/zebra#5925</title>
-<g id="a_node14"><a xlink:href="https://github.com/ZcashFoundation/zebra/pull/5925" xlink:title="ZcashFoundation/zebra#5925&#10;fix(rpc): Calculate&#10;getblocktemplate RPC&#10;testnet min time&#10;correctly" target="_blank">
+<g id="a_node14"><a xlink:href="https://github.com/ZcashFoundation/zebra/pull/5925" xlink:title="ZcashFoundation/zebra#5925&#10;fix(rpc): Calculate&#10;getblocktemplate RPC&#10;testnet min and max times&#10;correctly" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="232,-930.5 0,-930.5 0,-926.5 -4,-926.5 -4,-922.5 0,-922.5 0,-855.5 -4,-855.5 -4,-851.5 0,-851.5 0,-847.5 232,-847.5 232,-930.5"/>
 <polyline fill="none" stroke="#000000" stroke-width="2" points="0,-926.5 4,-926.5 4,-922.5 0,-922.5 "/>
 <polyline fill="none" stroke="#000000" stroke-width="2" points="0,-855.5 4,-855.5 4,-851.5 0,-851.5 "/>
 <text text-anchor="middle" x="116" y="-915.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5925</text>
 <text text-anchor="middle" x="116" y="-900.3" font-family="Times,serif" font-size="14.00" fill="#000000">fix(rpc): Calculate</text>
 <text text-anchor="middle" x="116" y="-885.3" font-family="Times,serif" font-size="14.00" fill="#000000">getblocktemplate RPC</text>
-<text text-anchor="middle" x="116" y="-870.3" font-family="Times,serif" font-size="14.00" fill="#000000">testnet min time</text>
+<text text-anchor="middle" x="116" y="-870.3" font-family="Times,serif" font-size="14.00" fill="#000000">testnet min and max times</text>
 <text text-anchor="middle" x="116" y="-855.3" font-family="Times,serif" font-size="14.00" fill="#000000">correctly</text>
 </a>
 </g>
