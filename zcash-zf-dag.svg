@@ -28,10 +28,10 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#5686 -->
-<g id="node2" class="node open">
+<g id="node2" class="node closed">
 <title>ZcashFoundation/zebra#5686</title>
 <g id="a_node2"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/5686" xlink:title="ZcashFoundation/zebra#5686&#10;Manually test that each&#10;mining RPC works&#10;correctly" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="776,-203.5 544,-203.5 544,-135.5 776,-135.5 776,-203.5"/>
+<polygon fill="#fad8c7" stroke="#000000" points="776,-203.5 544,-203.5 544,-135.5 776,-135.5 776,-203.5"/>
 <text text-anchor="middle" x="660" y="-188.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#5686</text>
 <text text-anchor="middle" x="660" y="-173.3" font-family="Times,serif" font-size="14.00" fill="#000000">Manually test that each</text>
 <text text-anchor="middle" x="660" y="-158.3" font-family="Times,serif" font-size="14.00" fill="#000000">mining RPC works</text>
