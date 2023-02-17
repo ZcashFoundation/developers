@@ -10,40 +10,40 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 646)">
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-646 559,-646 559,4 -4,4"/>
 <g id="clust1" class="cluster">
-<title>cluster_1</title>
-<polygon fill="none" stroke="#0000ff" points="0,-549 0,-642 310,-642 310,-549 0,-549"/>
-<text text-anchor="middle" x="155" y="-626.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: FROST Proof of Concept/Prototype</text>
+<title>cluster_2</title>
+<polygon fill="none" stroke="#0000ff" points="38,-535 38,-642 272,-642 272,-535 38,-535"/>
+<text text-anchor="middle" x="155" y="-626.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Re&#45;randomizable FROST</text>
 </g>
 <g id="clust2" class="cluster">
-<title>cluster_2</title>
-<polygon fill="none" stroke="#0000ff" points="38,0 38,-107 272,-107 272,0 38,0"/>
-<text text-anchor="middle" x="155" y="-91.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Re&#45;randomizable FROST</text>
+<title>cluster_1</title>
+<polygon fill="none" stroke="#0000ff" points="0,0 0,-93 310,-93 310,0 0,0"/>
+<text text-anchor="middle" x="155" y="-77.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: FROST Proof of Concept/Prototype</text>
 </g>
 <g id="clust3" class="cluster">
 <title>cluster_3</title>
-<polygon fill="none" stroke="#0000ff" points="20,-178 20,-541 289,-541 289,-178 20,-178"/>
-<text text-anchor="middle" x="154.5" y="-525.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Prep crates / APIs for release</text>
+<polygon fill="none" stroke="#0000ff" points="20,-164 20,-527 289,-527 289,-164 20,-164"/>
+<text text-anchor="middle" x="154.5" y="-511.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Prep crates / APIs for release</text>
 </g>
-<!-- ZcashFoundation/frost#217 -->
+<!-- ZcashFoundation/frost#121 -->
 <g id="node1" class="node open">
-<title>ZcashFoundation/frost#217</title>
-<g id="a_node1"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/217" xlink:title="ZcashFoundation/frost#217&#10;Investigate broadcast&#10;channel implementation" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-610.5 46,-610.5 46,-557.5 263,-557.5 263,-610.5"/>
-<text text-anchor="middle" x="154.5" y="-595.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#217</text>
-<text text-anchor="middle" x="154.5" y="-580.3" font-family="Times,serif" font-size="14.00" fill="#000000">Investigate broadcast</text>
-<text text-anchor="middle" x="154.5" y="-565.3" font-family="Times,serif" font-size="14.00" fill="#000000">channel implementation</text>
+<title>ZcashFoundation/frost#121</title>
+<g id="a_node1"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/121" xlink:title="ZcashFoundation/frost#121&#10;Organize the Re&#45;&#10;randomizable FROST&#10;implementation" target="_blank">
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-611 46,-611 46,-543 263,-543 263,-611"/>
+<text text-anchor="middle" x="154.5" y="-595.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#121</text>
+<text text-anchor="middle" x="154.5" y="-580.8" font-family="Times,serif" font-size="14.00" fill="#000000">Organize the Re&#45;</text>
+<text text-anchor="middle" x="154.5" y="-565.8" font-family="Times,serif" font-size="14.00" fill="#000000">randomizable FROST</text>
+<text text-anchor="middle" x="154.5" y="-550.8" font-family="Times,serif" font-size="14.00" fill="#000000">implementation</text>
 </a>
 </g>
 </g>
-<!-- ZcashFoundation/frost#121 -->
+<!-- ZcashFoundation/frost#217 -->
 <g id="node2" class="node open">
-<title>ZcashFoundation/frost#121</title>
-<g id="a_node2"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/121" xlink:title="ZcashFoundation/frost#121&#10;Organize the Re&#45;&#10;randomizable FROST&#10;implementation" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-76 46,-76 46,-8 263,-8 263,-76"/>
-<text text-anchor="middle" x="154.5" y="-60.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#121</text>
-<text text-anchor="middle" x="154.5" y="-45.8" font-family="Times,serif" font-size="14.00" fill="#000000">Organize the Re&#45;</text>
-<text text-anchor="middle" x="154.5" y="-30.8" font-family="Times,serif" font-size="14.00" fill="#000000">randomizable FROST</text>
-<text text-anchor="middle" x="154.5" y="-15.8" font-family="Times,serif" font-size="14.00" fill="#000000">implementation</text>
+<title>ZcashFoundation/frost#217</title>
+<g id="a_node2"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/217" xlink:title="ZcashFoundation/frost#217&#10;Investigate broadcast&#10;channel implementation" target="_blank">
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-61.5 46,-61.5 46,-8.5 263,-8.5 263,-61.5"/>
+<text text-anchor="middle" x="154.5" y="-46.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#217</text>
+<text text-anchor="middle" x="154.5" y="-31.3" font-family="Times,serif" font-size="14.00" fill="#000000">Investigate broadcast</text>
+<text text-anchor="middle" x="154.5" y="-16.3" font-family="Times,serif" font-size="14.00" fill="#000000">channel implementation</text>
 </a>
 </g>
 </g>
@@ -51,10 +51,10 @@
 <g id="node3" class="node open">
 <title>ZcashFoundation/frost#189</title>
 <g id="a_node3"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/189" xlink:title="ZcashFoundation/frost#189&#10;Updated release drafter&#10;config to match zebrad&#39;s" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-509.5 46,-509.5 46,-456.5 263,-456.5 263,-509.5"/>
-<text text-anchor="middle" x="154.5" y="-494.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#189</text>
-<text text-anchor="middle" x="154.5" y="-479.3" font-family="Times,serif" font-size="14.00" fill="#000000">Updated release drafter</text>
-<text text-anchor="middle" x="154.5" y="-464.3" font-family="Times,serif" font-size="14.00" fill="#000000">config to match zebrad&#39;s</text>
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-495.5 46,-495.5 46,-442.5 263,-442.5 263,-495.5"/>
+<text text-anchor="middle" x="154.5" y="-480.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#189</text>
+<text text-anchor="middle" x="154.5" y="-465.3" font-family="Times,serif" font-size="14.00" fill="#000000">Updated release drafter</text>
+<text text-anchor="middle" x="154.5" y="-450.3" font-family="Times,serif" font-size="14.00" fill="#000000">config to match zebrad&#39;s</text>
 </a>
 </g>
 </g>
@@ -62,43 +62,43 @@
 <g id="node8" class="node open">
 <title>ZcashFoundation/frost#235</title>
 <g id="a_node8"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/235" xlink:title="ZcashFoundation/frost#235&#10;Tag a `frost` release&#10;based on the final&#10;version of the spec" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="555,-453 338,-453 338,-385 555,-385 555,-453"/>
-<text text-anchor="middle" x="446.5" y="-437.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#235</text>
-<text text-anchor="middle" x="446.5" y="-422.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tag a `frost` release</text>
-<text text-anchor="middle" x="446.5" y="-407.8" font-family="Times,serif" font-size="14.00" fill="#000000">based on the final</text>
-<text text-anchor="middle" x="446.5" y="-392.8" font-family="Times,serif" font-size="14.00" fill="#000000">version of the spec</text>
+<polygon fill="#c2e0c6" stroke="#000000" points="555,-439 338,-439 338,-371 555,-371 555,-439"/>
+<text text-anchor="middle" x="446.5" y="-423.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#235</text>
+<text text-anchor="middle" x="446.5" y="-408.8" font-family="Times,serif" font-size="14.00" fill="#000000">Tag a `frost` release</text>
+<text text-anchor="middle" x="446.5" y="-393.8" font-family="Times,serif" font-size="14.00" fill="#000000">based on the final</text>
+<text text-anchor="middle" x="446.5" y="-378.8" font-family="Times,serif" font-size="14.00" fill="#000000">version of the spec</text>
 </a>
 </g>
 </g>
 <!-- ZcashFoundation/frost#189&#45;&gt;ZcashFoundation/frost#235 -->
 <g id="edge1" class="edge">
 <title>ZcashFoundation/frost#189&#45;&gt;ZcashFoundation/frost#235</title>
-<path fill="none" stroke="#000000" d="M263.23,-459.17C284.23,-454.57 306.33,-449.72 327.63,-445.05"/>
-<polygon fill="#000000" stroke="#000000" points="328.6598,-448.4075 337.68,-442.85 327.1628,-441.5695 328.6598,-448.4075"/>
+<path fill="none" stroke="#000000" d="M263.23,-445.17C284.23,-440.57 306.33,-435.72 327.63,-431.05"/>
+<polygon fill="#000000" stroke="#000000" points="328.6598,-434.4075 337.68,-428.85 327.1628,-427.5695 328.6598,-434.4075"/>
 </g>
 <!-- ZcashFoundation/frost#190 -->
 <g id="node4" class="node open">
 <title>ZcashFoundation/frost#190</title>
 <g id="a_node4"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/190" xlink:title="ZcashFoundation/frost#190&#10;Write a release checklist" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-438 46,-438 46,-400 263,-400 263,-438"/>
-<text text-anchor="middle" x="154.5" y="-422.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#190</text>
-<text text-anchor="middle" x="154.5" y="-407.8" font-family="Times,serif" font-size="14.00" fill="#000000">Write a release checklist</text>
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-424 46,-424 46,-386 263,-386 263,-424"/>
+<text text-anchor="middle" x="154.5" y="-408.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#190</text>
+<text text-anchor="middle" x="154.5" y="-393.8" font-family="Times,serif" font-size="14.00" fill="#000000">Write a release checklist</text>
 </a>
 </g>
 </g>
 <!-- ZcashFoundation/frost#190&#45;&gt;ZcashFoundation/frost#235 -->
 <g id="edge2" class="edge">
 <title>ZcashFoundation/frost#190&#45;&gt;ZcashFoundation/frost#235</title>
-<path fill="none" stroke="#000000" d="M263.23,-419C284.23,-419 306.33,-419 327.63,-419"/>
-<polygon fill="#000000" stroke="#000000" points="327.68,-422.5001 337.68,-419 327.68,-415.5001 327.68,-422.5001"/>
+<path fill="none" stroke="#000000" d="M263.23,-405C284.23,-405 306.33,-405 327.63,-405"/>
+<polygon fill="#000000" stroke="#000000" points="327.68,-408.5001 337.68,-405 327.68,-401.5001 327.68,-408.5001"/>
 </g>
 <!-- ZcashFoundation/frost#79 -->
 <g id="node5" class="node open">
 <title>ZcashFoundation/frost#79</title>
 <g id="a_node5"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/79" xlink:title="ZcashFoundation/frost#79&#10;Publish `frost&#45;` crates" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="258.5,-382 50.5,-382 50.5,-344 258.5,-344 258.5,-382"/>
-<text text-anchor="middle" x="154.5" y="-366.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#79</text>
-<text text-anchor="middle" x="154.5" y="-351.8" font-family="Times,serif" font-size="14.00" fill="#000000">Publish `frost&#45;` crates</text>
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="258.5,-368 50.5,-368 50.5,-330 258.5,-330 258.5,-368"/>
+<text text-anchor="middle" x="154.5" y="-352.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#79</text>
+<text text-anchor="middle" x="154.5" y="-337.8" font-family="Times,serif" font-size="14.00" fill="#000000">Publish `frost&#45;` crates</text>
 </a>
 </g>
 </g>
@@ -106,11 +106,11 @@
 <g id="node6" class="node open">
 <title>ZcashFoundation/frost#243</title>
 <g id="a_node6"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/243" xlink:title="ZcashFoundation/frost#243&#10;Publish FROST&#10;documentation to&#10;frost.zfnd.org" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-326 46,-326 46,-258 263,-258 263,-326"/>
-<text text-anchor="middle" x="154.5" y="-310.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#243</text>
-<text text-anchor="middle" x="154.5" y="-295.8" font-family="Times,serif" font-size="14.00" fill="#000000">Publish FROST</text>
-<text text-anchor="middle" x="154.5" y="-280.8" font-family="Times,serif" font-size="14.00" fill="#000000">documentation to</text>
-<text text-anchor="middle" x="154.5" y="-265.8" font-family="Times,serif" font-size="14.00" fill="#000000">frost.zfnd.org</text>
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-312 46,-312 46,-244 263,-244 263,-312"/>
+<text text-anchor="middle" x="154.5" y="-296.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#243</text>
+<text text-anchor="middle" x="154.5" y="-281.8" font-family="Times,serif" font-size="14.00" fill="#000000">Publish FROST</text>
+<text text-anchor="middle" x="154.5" y="-266.8" font-family="Times,serif" font-size="14.00" fill="#000000">documentation to</text>
+<text text-anchor="middle" x="154.5" y="-251.8" font-family="Times,serif" font-size="14.00" fill="#000000">frost.zfnd.org</text>
 </a>
 </g>
 </g>
@@ -118,10 +118,10 @@
 <g id="node7" class="node open">
 <title>ZcashFoundation/frost#166</title>
 <g id="a_node7"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/166" xlink:title="ZcashFoundation/frost#166&#10;Squat crate names on&#10;crates.io" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-239.5 46,-239.5 46,-186.5 263,-186.5 263,-239.5"/>
-<text text-anchor="middle" x="154.5" y="-224.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#166</text>
-<text text-anchor="middle" x="154.5" y="-209.3" font-family="Times,serif" font-size="14.00" fill="#000000">Squat crate names on</text>
-<text text-anchor="middle" x="154.5" y="-194.3" font-family="Times,serif" font-size="14.00" fill="#000000">crates.io</text>
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-225.5 46,-225.5 46,-172.5 263,-172.5 263,-225.5"/>
+<text text-anchor="middle" x="154.5" y="-210.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#166</text>
+<text text-anchor="middle" x="154.5" y="-195.3" font-family="Times,serif" font-size="14.00" fill="#000000">Squat crate names on</text>
+<text text-anchor="middle" x="154.5" y="-180.3" font-family="Times,serif" font-size="14.00" fill="#000000">crates.io</text>
 </a>
 </g>
 </g>
@@ -129,18 +129,18 @@
 <g id="node9" class="node open">
 <title>ZcashFoundation/frost#236</title>
 <g id="a_node9"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/236" xlink:title="ZcashFoundation/frost#236&#10;Remove `frost&#45;redjubjub`&#10;from the repo" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-168.5 46,-168.5 46,-115.5 263,-115.5 263,-168.5"/>
-<text text-anchor="middle" x="154.5" y="-153.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#236</text>
-<text text-anchor="middle" x="154.5" y="-138.3" font-family="Times,serif" font-size="14.00" fill="#000000">Remove `frost&#45;redjubjub`</text>
-<text text-anchor="middle" x="154.5" y="-123.3" font-family="Times,serif" font-size="14.00" fill="#000000">from the repo</text>
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="263,-154.5 46,-154.5 46,-101.5 263,-101.5 263,-154.5"/>
+<text text-anchor="middle" x="154.5" y="-139.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#236</text>
+<text text-anchor="middle" x="154.5" y="-124.3" font-family="Times,serif" font-size="14.00" fill="#000000">Remove `frost&#45;redjubjub`</text>
+<text text-anchor="middle" x="154.5" y="-109.3" font-family="Times,serif" font-size="14.00" fill="#000000">from the repo</text>
 </a>
 </g>
 </g>
 <!-- ZcashFoundation/frost#236&#45;&gt;ZcashFoundation/frost#235 -->
 <g id="edge3" class="edge">
 <title>ZcashFoundation/frost#236&#45;&gt;ZcashFoundation/frost#235</title>
-<path fill="none" stroke="#000000" d="M263.31,-151.87C279.99,-156.81 296.22,-163.89 310,-174 378.34,-224.11 416.85,-319.33 434.5,-375.16"/>
-<polygon fill="#000000" stroke="#000000" points="431.1713,-376.2434 437.46,-384.77 437.8612,-374.1828 431.1713,-376.2434"/>
+<path fill="none" stroke="#000000" d="M263.31,-137.87C279.99,-142.81 296.22,-149.89 310,-160 378.34,-210.11 416.85,-305.33 434.5,-361.16"/>
+<polygon fill="#000000" stroke="#000000" points="431.1713,-362.2434 437.46,-370.77 437.8612,-360.1828 431.1713,-362.2434"/>
 </g>
 </g>
 </svg>
