@@ -251,10 +251,10 @@
 <polygon fill="#000000" stroke="#000000" points="662.7927,-53.6759 673.34,-52.673 664.4694,-46.8797 662.7927,-53.6759"/>
 </g>
 <!-- ZcashFoundation/zebra#6030 -->
-<g id="node17" class="node open">
+<g id="node17" class="node closed">
 <title>ZcashFoundation/zebra#6030</title>
 <g id="a_node17"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/6030" xlink:title="ZcashFoundation/zebra#6030&#10;Implement&#10;z_listunifiedreceivers&#10;RPC" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="561,-206.738 329,-206.738 329,-138.738 561,-138.738 561,-206.738"/>
+<polygon fill="#fad8c7" stroke="#000000" points="561,-206.738 329,-206.738 329,-138.738 561,-138.738 561,-206.738"/>
 <text text-anchor="middle" x="445" y="-191.538" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#6030</text>
 <text text-anchor="middle" x="445" y="-176.538" font-family="Times,serif" font-size="14.00" fill="#000000">Implement</text>
 <text text-anchor="middle" x="445" y="-161.538" font-family="Times,serif" font-size="14.00" fill="#000000">z_listunifiedreceivers</text>
