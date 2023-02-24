@@ -41,12 +41,13 @@
 <!-- ZcashFoundation/zebra#6118 -->
 <g id="node3" class="node open">
 <title>ZcashFoundation/zebra#6118</title>
-<g id="a_node3"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/6118" xlink:title="ZcashFoundation/zebra#6118&#10;Create a Docker image for&#10;mining with Zebra on&#10;Testnet" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="536.5,-176 304.5,-176 304.5,-108 536.5,-108 536.5,-176"/>
-<text text-anchor="middle" x="420.5" y="-160.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#6118</text>
-<text text-anchor="middle" x="420.5" y="-145.8" font-family="Times,serif" font-size="14.00" fill="#000000">Create a Docker image for</text>
-<text text-anchor="middle" x="420.5" y="-130.8" font-family="Times,serif" font-size="14.00" fill="#000000">mining with Zebra on</text>
-<text text-anchor="middle" x="420.5" y="-115.8" font-family="Times,serif" font-size="14.00" fill="#000000">Testnet</text>
+<g id="a_node3"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/6118" xlink:title="ZcashFoundation/zebra#6118&#10;Create a Docker images&#10;and docker&#45;compose for&#10;mining with Zebra on&#10;Testnet" target="_blank">
+<polygon fill="#c2e0c6" stroke="#000000" points="536.5,-183.5 304.5,-183.5 304.5,-100.5 536.5,-100.5 536.5,-183.5"/>
+<text text-anchor="middle" x="420.5" y="-168.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#6118</text>
+<text text-anchor="middle" x="420.5" y="-153.3" font-family="Times,serif" font-size="14.00" fill="#000000">Create a Docker images</text>
+<text text-anchor="middle" x="420.5" y="-138.3" font-family="Times,serif" font-size="14.00" fill="#000000">and docker&#45;compose for</text>
+<text text-anchor="middle" x="420.5" y="-123.3" font-family="Times,serif" font-size="14.00" fill="#000000">mining with Zebra on</text>
+<text text-anchor="middle" x="420.5" y="-108.3" font-family="Times,serif" font-size="14.00" fill="#000000">Testnet</text>
 </a>
 </g>
 </g>
