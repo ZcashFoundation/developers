@@ -15,14 +15,14 @@
 <text text-anchor="middle" x="396.5" y="-462.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: FROST Proof of Concept/Prototype and Documentation</text>
 </g>
 <g id="clust2" class="cluster">
-<title>cluster_2</title>
-<polygon fill="none" stroke="#0000ff" points="0,-587 0,-822 269,-822 269,-587 0,-587"/>
-<text text-anchor="middle" x="134.5" y="-806.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Prep crates / APIs for release</text>
-</g>
-<g id="clust3" class="cluster">
 <title>cluster_1</title>
 <polygon fill="none" stroke="#0000ff" points="18,-486 18,-579 252,-579 252,-486 18,-486"/>
 <text text-anchor="middle" x="135" y="-563.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Re&#45;randomizable FROST</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_2</title>
+<polygon fill="none" stroke="#0000ff" points="0,-587 0,-822 269,-822 269,-587 0,-587"/>
+<text text-anchor="middle" x="134.5" y="-806.8" font-family="Times,serif" font-size="14.00" fill="#000000">Epic: Prep crates / APIs for release</text>
 </g>
 <!-- ZcashFoundation/frost#238 -->
 <g id="node1" class="node open">
@@ -128,10 +128,21 @@
 </a>
 </g>
 </g>
-<!-- ZcashFoundation/frost#189 -->
+<!-- ZcashFoundation/frost#216 -->
 <g id="node9" class="node open">
+<title>ZcashFoundation/frost#216</title>
+<g id="a_node9"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/216" xlink:title="ZcashFoundation/frost#216&#10;Write security proof for&#10;Rerandomized FROST" target="_blank">
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="243,-547.5 26,-547.5 26,-494.5 243,-494.5 243,-547.5"/>
+<text text-anchor="middle" x="134.5" y="-532.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#216</text>
+<text text-anchor="middle" x="134.5" y="-517.3" font-family="Times,serif" font-size="14.00" fill="#000000">Write security proof for</text>
+<text text-anchor="middle" x="134.5" y="-502.3" font-family="Times,serif" font-size="14.00" fill="#000000">Rerandomized FROST</text>
+</a>
+</g>
+</g>
+<!-- ZcashFoundation/frost#189 -->
+<g id="node10" class="node open">
 <title>ZcashFoundation/frost#189</title>
-<g id="a_node9"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/189" xlink:title="ZcashFoundation/frost#189&#10;Updated release drafter&#10;config to match zebrad&#39;s" target="_blank">
+<g id="a_node10"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/189" xlink:title="ZcashFoundation/frost#189&#10;Updated release drafter&#10;config to match zebrad&#39;s" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="243,-790.5 26,-790.5 26,-737.5 243,-737.5 243,-790.5"/>
 <text text-anchor="middle" x="134.5" y="-775.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#189</text>
 <text text-anchor="middle" x="134.5" y="-760.3" font-family="Times,serif" font-size="14.00" fill="#000000">Updated release drafter</text>
@@ -158,9 +169,9 @@
 <polygon fill="#000000" stroke="#000000" points="287.2891,-749.4778 296.81,-744.83 286.4687,-742.5261 287.2891,-749.4778"/>
 </g>
 <!-- ZcashFoundation/frost#190 -->
-<g id="node10" class="node open">
+<g id="node11" class="node open">
 <title>ZcashFoundation/frost#190</title>
-<g id="a_node10"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/190" xlink:title="ZcashFoundation/frost#190&#10;Write a release checklist" target="_blank">
+<g id="a_node11"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/190" xlink:title="ZcashFoundation/frost#190&#10;Write a release checklist" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="243,-719 26,-719 26,-681 243,-681 243,-719"/>
 <text text-anchor="middle" x="134.5" y="-703.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#190</text>
 <text text-anchor="middle" x="134.5" y="-688.8" font-family="Times,serif" font-size="14.00" fill="#000000">Write a release checklist</text>
@@ -174,25 +185,14 @@
 <polygon fill="#000000" stroke="#000000" points="286.4687,-721.4739 296.81,-719.17 287.2891,-714.5222 286.4687,-721.4739"/>
 </g>
 <!-- ZcashFoundation/frost#243 -->
-<g id="node11" class="node open">
+<g id="node12" class="node open">
 <title>ZcashFoundation/frost#243</title>
-<g id="a_node11"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/243" xlink:title="ZcashFoundation/frost#243&#10;Publish FROST&#10;documentation to&#10;frost.zfnd.org" target="_blank">
+<g id="a_node12"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/243" xlink:title="ZcashFoundation/frost#243&#10;Publish FROST&#10;documentation to&#10;frost.zfnd.org" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="243,-663 26,-663 26,-595 243,-595 243,-663"/>
 <text text-anchor="middle" x="134.5" y="-647.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#243</text>
 <text text-anchor="middle" x="134.5" y="-632.8" font-family="Times,serif" font-size="14.00" fill="#000000">Publish FROST</text>
 <text text-anchor="middle" x="134.5" y="-617.8" font-family="Times,serif" font-size="14.00" fill="#000000">documentation to</text>
 <text text-anchor="middle" x="134.5" y="-602.8" font-family="Times,serif" font-size="14.00" fill="#000000">frost.zfnd.org</text>
-</a>
-</g>
-</g>
-<!-- ZcashFoundation/frost#216 -->
-<g id="node12" class="node open">
-<title>ZcashFoundation/frost#216</title>
-<g id="a_node12"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/216" xlink:title="ZcashFoundation/frost#216&#10;Write security proof for&#10;Rerandomized FROST" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="243,-547.5 26,-547.5 26,-494.5 243,-494.5 243,-547.5"/>
-<text text-anchor="middle" x="134.5" y="-532.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/frost#216</text>
-<text text-anchor="middle" x="134.5" y="-517.3" font-family="Times,serif" font-size="14.00" fill="#000000">Write security proof for</text>
-<text text-anchor="middle" x="134.5" y="-502.3" font-family="Times,serif" font-size="14.00" fill="#000000">Rerandomized FROST</text>
 </a>
 </g>
 </g>
