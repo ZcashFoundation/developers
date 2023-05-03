@@ -3,6 +3,12 @@
         /* Material dark theme surface colour */
         fill: #121212;
     }
+    svg .cluster polygon {
+        stroke: #1976d2;
+    }
+    svg .cluster text {
+        fill: #c9d1d9;
+    }
     svg .node polygon {
         stroke: #c9d1d9;
     }
@@ -13,6 +19,9 @@
     svg .node.committed polygon {
         /* Material Blue 700 */
         fill: #1976d2;
+    }
+    svg .node.needs-review polygon {
+        fill: #d29b19;
     }
     svg .node.closed polygon {
         fill: #cf6b66;
