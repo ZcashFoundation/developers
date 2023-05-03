@@ -116,6 +116,7 @@ class GitHubIssue:
             self.title = data['title']
             self.is_pr = 'merged' in data
             self.is_committed = 'S-committed' in labels
+            self.waiting_on_review = 'S-waiting-on-review' in labels
             self.url = data['url']
             self.state = 'closed' if data['state'] in ['CLOSED', 'MERGED'] else 'open'
             if 'milestone' in data and data['milestone']:
@@ -327,6 +328,9 @@ def main():
         if n.state == 'closed':
             attrs['class'] = 'closed'
             attrs['fillcolor'] = '#fad8c7'
+        elif n.waiting_on_review:
+            attrs['class'] = 'needs-review'
+            attrs['fillcolor'] = '#dfc150'
         elif n.is_committed:
             attrs['class'] = 'committed'
             attrs['fillcolor'] = '#a6cfff'
@@ -345,20 +349,23 @@ def main():
 
     ag = nx.nx_agraph.to_agraph(dg)
 
+    clusters = 0
     if SHOW_MILESTONES:
         # Identify milestone nbunches
         milestones = {n.milestone: [] for n in dg}
         for m in milestones:
             milestones[m] = [n for n in dg if n.milestone == m]
         del milestones[None]
-        for (i, (milestone, nodes)) in enumerate(milestones.items()):
-            ag.add_subgraph(nodes, 'cluster_%d' % i, label=milestone, color='blue')
+        for (milestone, nodes) in milestones.items():
+            ag.add_subgraph(nodes, 'cluster_%d' % clusters, label=milestone, color='blue')
+            clusters += 1
 
     if SHOW_EPICS:
-        for (i, (epic, issues)) in enumerate(issues_by_epic.items()):
+        for (epic, issues) in issues_by_epic.items():
             issues = [n for n in dg if (n.repo_id, n.issue_number) in issues]
             if issues:
-                ag.add_subgraph(issues, 'cluster_%d' % i, label=epic.title, color='blue')
+                ag.add_subgraph(issues, 'cluster_%d' % clusters, label=epic.title, color='blue')
+                clusters += 1
 
     # Draw the result!
     ag.graph_attr['rankdir'] = 'LR'
