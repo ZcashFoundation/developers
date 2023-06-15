@@ -497,11 +497,11 @@
 <!-- ZcashFoundation/zebra#6952 -->
 <g id="node32" class="node open">
 <title>ZcashFoundation/zebra#6952</title>
-<g id="a_node32"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/6952" xlink:title="ZcashFoundation/zebra#6952&#10;Add note tree size fields&#10;to the &#160;RPC" target="_blank">
+<g id="a_node32"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/6952" xlink:title="ZcashFoundation/zebra#6952&#10;Add note tree size fields&#10;to the `getblock` RPC" target="_blank">
 <polygon fill="#c2e0c6" stroke="black" points="571.5,-1686 340.5,-1686 340.5,-1633 571.5,-1633 571.5,-1686"/>
 <text text-anchor="middle" x="456" y="-1670.8" font-family="Times,serif" font-size="14.00">ZcashFoundation/zebra#6952</text>
 <text text-anchor="middle" x="456" y="-1655.8" font-family="Times,serif" font-size="14.00">Add note tree size fields</text>
-<text text-anchor="middle" x="456" y="-1640.8" font-family="Times,serif" font-size="14.00">to the &#160;RPC</text>
+<text text-anchor="middle" x="456" y="-1640.8" font-family="Times,serif" font-size="14.00">to the `getblock` RPC</text>
 </a>
 </g>
 </g>
