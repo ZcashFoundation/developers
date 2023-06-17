@@ -10,40 +10,40 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 658.5)">
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-658.5 898,-658.5 898,4 -4,4"/>
 <g id="clust1" class="cluster">
-<title>cluster_0</title>
-<polygon fill="none" stroke="blue" points="79,-444 79,-537 311,-537 311,-444 79,-444"/>
-<text text-anchor="middle" x="195" y="-521.8" font-family="Times,serif" font-size="14.00">Epic: Re&#45;randomizable FROST</text>
-</g>
-<g id="clust2" class="cluster">
 <title>cluster_2</title>
 <polygon fill="none" stroke="blue" points="0,-329 0,-436 390,-436 390,-329 0,-329"/>
 <text text-anchor="middle" x="195" y="-420.8" font-family="Times,serif" font-size="14.00">Epic: Demo for Trusted Dealer key share generation</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_0</title>
+<polygon fill="none" stroke="blue" points="79,-444 79,-537 311,-537 311,-444 79,-444"/>
+<text text-anchor="middle" x="195" y="-521.8" font-family="Times,serif" font-size="14.00">Epic: Re&#45;randomizable FROST</text>
 </g>
 <g id="clust3" class="cluster">
 <title>cluster_1</title>
 <polygon fill="none" stroke="blue" points="79,0 79,-321 894,-321 894,0 79,0"/>
 <text text-anchor="middle" x="486.5" y="-305.8" font-family="Times,serif" font-size="14.00">Epic: FROST Proof of Concept/Prototype and Documentation</text>
 </g>
-<!-- ZcashFoundation/frost#216 -->
-<g id="node1" class="node open">
-<title>ZcashFoundation/frost#216</title>
-<g id="a_node1"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/216" xlink:title="ZcashFoundation/frost#216&#10;Write security proof for&#10;Rerandomized FROST" target="_blank">
-<polygon fill="#c2e0c6" stroke="black" stroke-width="2" points="303,-505.5 87,-505.5 87,-452.5 303,-452.5 303,-505.5"/>
-<text text-anchor="middle" x="195" y="-490.3" font-family="Times,serif" font-size="14.00">ZcashFoundation/frost#216</text>
-<text text-anchor="middle" x="195" y="-475.3" font-family="Times,serif" font-size="14.00">Write security proof for</text>
-<text text-anchor="middle" x="195" y="-460.3" font-family="Times,serif" font-size="14.00">Rerandomized FROST</text>
-</a>
-</g>
-</g>
 <!-- ZcashFoundation/frost#324 -->
-<g id="node2" class="node open">
+<g id="node1" class="node open">
 <title>ZcashFoundation/frost#324</title>
-<g id="a_node2"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/324" xlink:title="ZcashFoundation/frost#324&#10;Return VerifiableSecretSh&#10;aringCommitment in frost&#45;&#10;zcash&#45;demo" target="_blank">
+<g id="a_node1"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/324" xlink:title="ZcashFoundation/frost#324&#10;Return VerifiableSecretSh&#10;aringCommitment in frost&#45;&#10;zcash&#45;demo" target="_blank">
 <polygon fill="#c2e0c6" stroke="black" stroke-width="2" points="303,-405 87,-405 87,-337 303,-337 303,-405"/>
 <text text-anchor="middle" x="195" y="-389.8" font-family="Times,serif" font-size="14.00">ZcashFoundation/frost#324</text>
 <text text-anchor="middle" x="195" y="-374.8" font-family="Times,serif" font-size="14.00">Return VerifiableSecretSh</text>
 <text text-anchor="middle" x="195" y="-359.8" font-family="Times,serif" font-size="14.00">aringCommitment in frost&#45;</text>
 <text text-anchor="middle" x="195" y="-344.8" font-family="Times,serif" font-size="14.00">zcash&#45;demo</text>
+</a>
+</g>
+</g>
+<!-- ZcashFoundation/frost#216 -->
+<g id="node2" class="node open">
+<title>ZcashFoundation/frost#216</title>
+<g id="a_node2"><a xlink:href="https://github.com/ZcashFoundation/frost/issues/216" xlink:title="ZcashFoundation/frost#216&#10;Write security proof for&#10;Rerandomized FROST" target="_blank">
+<polygon fill="#c2e0c6" stroke="black" stroke-width="2" points="303,-505.5 87,-505.5 87,-452.5 303,-452.5 303,-505.5"/>
+<text text-anchor="middle" x="195" y="-490.3" font-family="Times,serif" font-size="14.00">ZcashFoundation/frost#216</text>
+<text text-anchor="middle" x="195" y="-475.3" font-family="Times,serif" font-size="14.00">Write security proof for</text>
+<text text-anchor="middle" x="195" y="-460.3" font-family="Times,serif" font-size="14.00">Rerandomized FROST</text>
 </a>
 </g>
 </g>
