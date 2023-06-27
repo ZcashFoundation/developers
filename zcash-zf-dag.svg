@@ -573,11 +573,11 @@
 <!-- ZcashFoundation/zebra#6859 -->
 <g id="node37" class="node open">
 <title>ZcashFoundation/zebra#6859</title>
-<g id="a_node37"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/6859" xlink:title="ZcashFoundation/zebra#6859&#10;Upgrade shared ECC&#10;dependencies and&#10;zcash_script for zcashd&#10;5.6.0" target="_blank">
+<g id="a_node37"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/6859" xlink:title="ZcashFoundation/zebra#6859&#10;Tracking: Upgrade shared&#10;ECC dependencies and&#10;zcash_script for zcashd&#10;5.6.0" target="_blank">
 <polygon fill="#c2e0c6" stroke="black" stroke-width="2" points="255.5,-2055 24.5,-2055 24.5,-1972 255.5,-1972 255.5,-2055"/>
 <text text-anchor="middle" x="140" y="-2039.8" font-family="Times,serif" font-size="14.00">ZcashFoundation/zebra#6859</text>
-<text text-anchor="middle" x="140" y="-2024.8" font-family="Times,serif" font-size="14.00">Upgrade shared ECC</text>
-<text text-anchor="middle" x="140" y="-2009.8" font-family="Times,serif" font-size="14.00">dependencies and</text>
+<text text-anchor="middle" x="140" y="-2024.8" font-family="Times,serif" font-size="14.00">Tracking: Upgrade shared</text>
+<text text-anchor="middle" x="140" y="-2009.8" font-family="Times,serif" font-size="14.00">ECC dependencies and</text>
 <text text-anchor="middle" x="140" y="-1994.8" font-family="Times,serif" font-size="14.00">zcash_script for zcashd</text>
 <text text-anchor="middle" x="140" y="-1979.8" font-family="Times,serif" font-size="14.00">5.6.0</text>
 </a>
