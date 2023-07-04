@@ -15,10 +15,10 @@
 <text text-anchor="middle" x="768" y="-146.3" font-family="Times,serif" font-size="14.00">Epic: Improvements from Zebra Audit</text>
 </g>
 <!-- ZcashFoundation/zebra#6681 -->
-<g id="node1" class="node open">
+<g id="node1" class="node closed">
 <title>ZcashFoundation/zebra#6681</title>
 <g id="a_node1"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/6681" xlink:title="ZcashFoundation/zebra#6681&#10;Update documentation to&#10;clarify terminology&#10;around block verification" target="_blank">
-<polygon fill="#c2e0c6" stroke="black" points="883,-130.5 652,-130.5 652,-62.5 883,-62.5 883,-130.5"/>
+<polygon fill="#fad8c7" stroke="black" points="883,-130.5 652,-130.5 652,-62.5 883,-62.5 883,-130.5"/>
 <text text-anchor="middle" x="767.5" y="-115.3" font-family="Times,serif" font-size="14.00">ZcashFoundation/zebra#6681</text>
 <text text-anchor="middle" x="767.5" y="-100.3" font-family="Times,serif" font-size="14.00">Update documentation to</text>
 <text text-anchor="middle" x="767.5" y="-85.3" font-family="Times,serif" font-size="14.00">clarify terminology</text>
