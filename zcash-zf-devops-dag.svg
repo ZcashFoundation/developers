@@ -91,7 +91,7 @@
 <g id="node6" class="node open">
 <title>ZcashFoundation/zebra#6611</title>
 <g id="a_node6"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/6611" xlink:title="ZcashFoundation/zebra#6611&#10;Document how to switch&#10;from Testnet to Mainnet&#10;in Docker images" target="_blank">
-<polygon fill="#a7c2aa" stroke="black" points="498,-334 267,-334 267,-266 498,-266 498,-334"/>
+<polygon fill="#c2e0c6" stroke="black" points="498,-334 267,-334 267,-266 498,-266 498,-334"/>
 <text text-anchor="middle" x="382.5" y="-318.8" font-family="Times,serif" font-size="14.00">ZcashFoundation/zebra#6611</text>
 <text text-anchor="middle" x="382.5" y="-303.8" font-family="Times,serif" font-size="14.00">Document how to switch</text>
 <text text-anchor="middle" x="382.5" y="-288.8" font-family="Times,serif" font-size="14.00">from Testnet to Mainnet</text>
