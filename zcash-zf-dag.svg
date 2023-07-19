@@ -205,12 +205,12 @@
 <!-- ZcashFoundation/zebra#4784 -->
 <g id="node13" class="node open">
 <title>ZcashFoundation/zebra#4784</title>
-<g id="a_node13"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4784" xlink:title="ZcashFoundation/zebra#4784&#10;Store only the first tree&#10;state in each identical&#10;series of tree states" target="_blank">
+<g id="a_node13"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/4784" xlink:title="ZcashFoundation/zebra#4784&#10;Store only the first tree&#10;state in each series of&#10;identical tree states" target="_blank">
 <polygon fill="#c2e0c6" stroke="black" stroke-width="2" points="255.5,-790 24.5,-790 24.5,-722 255.5,-722 255.5,-790"/>
 <text text-anchor="middle" x="140" y="-774.8" font-family="Times,serif" font-size="14.00">ZcashFoundation/zebra#4784</text>
 <text text-anchor="middle" x="140" y="-759.8" font-family="Times,serif" font-size="14.00">Store only the first tree</text>
-<text text-anchor="middle" x="140" y="-744.8" font-family="Times,serif" font-size="14.00">state in each identical</text>
-<text text-anchor="middle" x="140" y="-729.8" font-family="Times,serif" font-size="14.00">series of tree states</text>
+<text text-anchor="middle" x="140" y="-744.8" font-family="Times,serif" font-size="14.00">state in each series of</text>
+<text text-anchor="middle" x="140" y="-729.8" font-family="Times,serif" font-size="14.00">identical tree states</text>
 </a>
 </g>
 </g>
