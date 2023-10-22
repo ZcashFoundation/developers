@@ -138,13 +138,13 @@
 <!-- ZcashFoundation/zebra#7403 -->
 <g id="node9" class="node open">
 <title>ZcashFoundation/zebra#7403</title>
-<g id="a_node9"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/7403" xlink:title="ZcashFoundation/zebra#7403&#10;Make `getnetworksolps` &amp;&#10;`getnetworkhashps` RPCs&#10;support the full height&#10;range" target="_blank">
+<g id="a_node9"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/7403" xlink:title="ZcashFoundation/zebra#7403&#10;Make `getnetworksolps` &amp;&#10;`getnetworkhashps` RPCs&#10;more efficient by caching&#10;difficulties and times" target="_blank">
 <polygon fill="#c2e0c6" stroke="black" stroke-width="2" points="863,-169.5 632,-169.5 632,-86.5 863,-86.5 863,-169.5"/>
 <text text-anchor="middle" x="747.5" y="-154.3" font-family="Times,serif" font-size="14.00">ZcashFoundation/zebra#7403</text>
 <text text-anchor="middle" x="747.5" y="-139.3" font-family="Times,serif" font-size="14.00">Make `getnetworksolps` &amp;</text>
 <text text-anchor="middle" x="747.5" y="-124.3" font-family="Times,serif" font-size="14.00">`getnetworkhashps` RPCs</text>
-<text text-anchor="middle" x="747.5" y="-109.3" font-family="Times,serif" font-size="14.00">support the full height</text>
-<text text-anchor="middle" x="747.5" y="-94.3" font-family="Times,serif" font-size="14.00">range</text>
+<text text-anchor="middle" x="747.5" y="-109.3" font-family="Times,serif" font-size="14.00">more efficient by caching</text>
+<text text-anchor="middle" x="747.5" y="-94.3" font-family="Times,serif" font-size="14.00">difficulties and times</text>
 </a>
 </g>
 </g>
