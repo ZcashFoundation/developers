@@ -527,10 +527,10 @@
 <!-- ZcashFoundation/zebra#7648 -->
 <g id="node36" class="node open">
 <title>ZcashFoundation/zebra#7648</title>
-<g id="a_node36"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/7648" xlink:title="ZcashFoundation/zebra#7648&#10;Fix logging to terminal&#10;when progress bars are&#10;enabled" target="_blank">
+<g id="a_node36"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/7648" xlink:title="ZcashFoundation/zebra#7648&#10;Allow logging to terminal&#10;when progress bars are&#10;enabled" target="_blank">
 <polygon fill="#c2e0c6" stroke="black" points="571.5,-2213 340.5,-2213 340.5,-2145 571.5,-2145 571.5,-2213"/>
 <text text-anchor="middle" x="456" y="-2197.8" font-family="Times,serif" font-size="14.00">ZcashFoundation/zebra#7648</text>
-<text text-anchor="middle" x="456" y="-2182.8" font-family="Times,serif" font-size="14.00">Fix logging to terminal</text>
+<text text-anchor="middle" x="456" y="-2182.8" font-family="Times,serif" font-size="14.00">Allow logging to terminal</text>
 <text text-anchor="middle" x="456" y="-2167.8" font-family="Times,serif" font-size="14.00">when progress bars are</text>
 <text text-anchor="middle" x="456" y="-2152.8" font-family="Times,serif" font-size="14.00">enabled</text>
 </a>
