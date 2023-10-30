@@ -36,10 +36,10 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#7764 -->
-<g id="node3" class="node open">
+<g id="node3" class="node closed">
 <title>ZcashFoundation/zebra#7764</title>
 <g id="a_node3"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/7764" xlink:title="ZcashFoundation/zebra#7764&#10;Publish next Zebra&#10;release: 1.4.0" target="_blank">
-<polygon fill="#a7c2aa" stroke="black" points="498,-225 267,-225 267,-172 498,-172 498,-225"/>
+<polygon fill="#fad8c7" stroke="black" points="498,-225 267,-225 267,-172 498,-172 498,-225"/>
 <text text-anchor="middle" x="382.5" y="-209.8" font-family="Times,serif" font-size="14.00">ZcashFoundation/zebra#7764</text>
 <text text-anchor="middle" x="382.5" y="-194.8" font-family="Times,serif" font-size="14.00">Publish next Zebra</text>
 <text text-anchor="middle" x="382.5" y="-179.8" font-family="Times,serif" font-size="14.00">release: 1.4.0</text>
