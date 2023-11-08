@@ -668,12 +668,12 @@
 <!-- ZcashFoundation/zebra#7907 -->
 <g id="node45" class="node open">
 <title>ZcashFoundation/zebra#7907</title>
-<g id="a_node45"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/7907" xlink:title="ZcashFoundation/zebra#7907&#10;feat(zebra&#45;scan): Make&#10;the scanner send data to&#10;the broadcast channel" target="_blank">
+<g id="a_node45"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/7907" xlink:title="ZcashFoundation/zebra#7907&#10;feat(zebra&#45;scan): Make&#10;the scanner send data to&#10;the results channel" target="_blank">
 <polygon fill="#c2e0c6" stroke="black" points="571.5,-2373 340.5,-2373 340.5,-2305 571.5,-2305 571.5,-2373"/>
 <text text-anchor="middle" x="456" y="-2357.8" font-family="Times,serif" font-size="14.00">ZcashFoundation/zebra#7907</text>
 <text text-anchor="middle" x="456" y="-2342.8" font-family="Times,serif" font-size="14.00">feat(zebra&#45;scan): Make</text>
 <text text-anchor="middle" x="456" y="-2327.8" font-family="Times,serif" font-size="14.00">the scanner send data to</text>
-<text text-anchor="middle" x="456" y="-2312.8" font-family="Times,serif" font-size="14.00">the broadcast channel</text>
+<text text-anchor="middle" x="456" y="-2312.8" font-family="Times,serif" font-size="14.00">the results channel</text>
 </a>
 </g>
 </g>
